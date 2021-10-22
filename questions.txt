@@ -1,0 +1,1461 @@
+CHEMISTRY: Which element has the atomic number 5?
+CHEMISTRY: Which element has the atomic number 6?
+CHEMISTRY: Which element has the atomic number 7?
+CHEMISTRY: What is the atomic number of titanium (Ti)?
+CHEMISTRY: What is the atomic number of bismuth (Bi)?
+HISTORY: Which year did the reign of Alfred the Great begin?
+CHEMISTRY: What is the atomic number of silver (Ag)?
+CHEMISTRY: What is the atomic number of gold (Au)?
+CHEMISTRY: What is the atomic number of mercury (Hg)?
+GEOGRAPHY: Which country has the longest coastline?
+TV AND FILM: Held on 16th May, 1929, which actor hosted the first ever Academy Awards?
+TV AND FILM: Which film won Outstanding Picture (now Best Picture) at the 1st Academy Awards?
+CHEMISTRY: Electrum is an alloy of gold (Au) and which other element?
+CHEMISTRY: Electrum is an alloy of silver (Ag) and which other element?
+CHEMISTRY: Brass is an alloy of copper (Cu) and which other element?
+CHEMISTRY: Bronze is an alloy of copper (Cu) and which other element?
+CHEMISTRY: Amalgams are alloys containing some metal and which element?
+CHEMISTRY: Duralumin (a now-obsolete trade name) is an alloy of aluminium and mainly which other element?
+CHEMISTRY: What is the atomic symbol for holmium?
+CHEMISTRY: Which word best describes the molecular geometry of H2O?
+MUSIC: In which decade did Elton John have his first solo UK number one single?
+HISTORY: Which UK monarch reigned from 22nd Jan 1901 - 6th May 1910?
+HISTORY: Which UK monarch reigned from 6th May 1910 - 20th Jan 1936?
+HISTORY: Which UK monarch reigned from 20th Jan 1936 - 11th Dec 1936?
+HISTORY: Which UK monarch reigned from 11th Dec 1936 - 6th Feb 1952?
+HISTORY: Which monarch reigned over England and Ireland from July 1553 - 17th Nov 1558?
+HISTORY: Which monarch reigned over England and Ireland from 17th Nov 1558 - 24th Mar 1603?
+HISTORY: Which monarch reigned over England, Scotland and Ireland from 27th Mar 1625 - 30th Jan 1649?
+HISTORY: Which royal house did King Charles I belong to?
+HISTORY: Which royal house did Queen Elizabeth I belong to?
+HISTORY: Who preceded King Alfred the Great as King of the West Saxons?
+HISTORY: Who succeeded King Alfred the Great as King of the Anglo-Saxons?
+HISTORY: Which monarch reigned over England from 1016 - 1035?
+GEOGRAPHY: Which country uses the vehicle registration code 'V'?
+LITERATURE: Which author's work includes characters such as Fingolfin and Glorfindel?
+ART: Which Mexican artist produced works entitled 'The Broken Column' and 'Diego and I'?
+MATHEMATICS: How many sides does a heptadecagon have?
+TV AND FILM: Which was the first James Bond film to feature Roger Moore in the title role?
+FOOD AND DRINK: 'Suncrisp', 'Golden Russet' and 'Braeburn' are all varieties of which fruit?
+GEOGRAPHY: In which country would you find the coastal resort of Lara Beach?
+SPORTS: In which year did the first Grand National take place?
+SPORTS: John Gosden and Mark Johnston are prominent names in which sport?
+POLITICS: What was Margaret Thatcher's middle name?
+RELIGION: Which is the first book of the Bible alphabetically?
+MATHEMATICS: What is 15% of 2,000?
+TV AND FILM: How many episodes of 'The Office (UK)' were made?
+SPORTS: In which country was cricketer Brian Lara born?
+WORLD LANGUAGES: What does the surname 'Singh' mean when translated into English?
+ZOOLOGY: Lemurs are native to which island?
+MUSIC: What are the names of the members of The Jackson 5, in any order?
+GAMES AND ENTERTAINMENT: Which is the only letter in Scrabble to have a value of 5 pts?
+GEOGRAPHY: After which Dutch explorer was the island state of Tasmania named?
+GEOGRAPHY: Tobermory is the capital of which Scottish island?
+GEOGRAPHY: Which London Underground line has the most stations?
+GENERAL KNOWLEDGE: What are the three given names of Prince George of Cambridge?
+LITERATURE: Which English author created the priest-detective 'Father Brown'?
+LITERATURE: Who is the alter ego of Sir Percy Blakeney?
+LITERATURE: Who wrote The Scarlet Pimpernel in 1905?
+HISTORY: Who was the sixth - and final - wife of Henry VIII?
+HISTORY: In which year was William Shakespeare born?
+GEOGRAPHY: In which English county is Blenheim Palace?
+GEOGRAPHY: Which country uses the vehicle registration code 'PK'?
+TV AND FILM: Which American actress was born Margaret Mary Emily Anne Hyra?
+POLITICS: Who is the only UK Prime Minister to be assassinated?
+WORLD LANGUAGES: What is the English name for the countryside animal 'un hérisson'?
+GEOGRAPHY: In which country is Zavratnica Bay?
+LITERATURE: Which author created Paddington Bear?
+SPORTS: With which sport is the Davis cup associated?
+ART: Which artist painted 'Lobster Telephone' in 1936?
+POLITICS: How many golden stars can be found on the flag of the European Union?
+GEOGRAPHY: In which world city would you find Maracana Stadium?
+GENERAL KNOWLEDGE: What is the traditional birthstone for January?
+GENERAL KNOWLEDGE: What is the traditional birthstone for February?
+GENERAL KNOWLEDGE: What is the traditional birthstone for March?
+GENERAL KNOWLEDGE: What is the traditional birthstone for April?
+GENERAL KNOWLEDGE: What is the traditional birthstone for May?
+GENERAL KNOWLEDGE: What is the traditional birthstone for June?
+GENERAL KNOWLEDGE: What is the traditional birthstone for July?
+GENERAL KNOWLEDGE: What is the traditional birthstone for August?
+GENERAL KNOWLEDGE: What is the traditional birthstone for September?
+GENERAL KNOWLEDGE: What is the traditional birthstone for October?
+GENERAL KNOWLEDGE: What is the traditional birthstone for November?
+GENERAL KNOWLEDGE: What is the traditional birthstone for December?
+GEOGRAPHY: What is the state capital of Pennsylvania?
+GEOGRAPHY: What is the state capital of Wyoming?
+GEOGRAPHY: What is the state capital of Delaware?
+GEOGRAPHY: What is the state capital of Alaska?
+GEOGRAPHY: What is the state capital of Arkansas?
+LITERATURE: Which author wrote the 'Poldark' series of books?
+PHYSICS: Give the relationship between electrical power, voltage and resistance, in terms of electrical power:
+MATHEMATICS: How many sides are there on a pentacontagon?
+MATHEMATICS: How many faces are there on an icosahedron?
+TV AND FILM: Who was the first ever winner of 'Britain's Got Talent'?
+FOOD AND DRINK: Launched in 1869, what was the first product to be sold by Heinz?
+GEOGRAPHY: In which city and country is the abandoned Chernobyl Nuclear Power Plant (city, country)?
+HISTORY: In which year did the Chernobyl disaster occur?
+TV AND FILM: In which year did Channel 4 first begin transmission?
+GEOGRAPHY: What is the capital of Sudan?
+ZOOLOGY: 'Vespine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Ursine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Bovine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Ovine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Formicine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Asinine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Musteline' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Apian/apiarian' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Aquiline' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Delphine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Cancrine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Vulpine' describes the traits of which animal? (pl.)
+ZOOLOGY: 'Equine' describes the traits of which animal? (pl.)
+LITERATURE: Which famous detective lived at 56B Whitehaven Mansions?
+GAMES AND ENTERTAINMENT: How many different coloured sets of properties are there in standard UK Monopoly?
+TV AND FILM: What are the names of the Seven Dwarves, in any order?
+MATHEMATICS: What is 6/14 of 112?
+CHEMISTRY: What is the chemical formula for ozone?
+FOOD AND DRINK:  What variety of apple is this:  G _ _ _ _ N / R _ S _ _ _ ?
+FOOD AND DRINK:  What variety of apple is this:  B _ A _ _ _ R _ ?
+MATHEMATICS: Who established a necessary and sufficient condition for a polynomial to be solvable by radicals?
+MATHEMATICS: Which mathematician died in a duel at the age of 20?
+GEOGRAPHY: What is the largest of the islands of the Inner Hebrides?
+GEOGRAPHY: What is the capital of the United Arab Emirates?
+GEOGRAPHY: What is the capital of Nigeria?
+GEOGRAPHY: What is the capital of Ghana?
+GEOGRAPHY: What is the capital of Ethiopia?
+GEOGRAPHY: What is the capital of Algeria?
+GEOGRAPHY: What is the capital of Madagascar?
+GEOGRAPHY: What is the capital of Eritrea?
+GEOGRAPHY: What is the capital of Mali?
+GEOGRAPHY: What is the capital of Senegal?
+GEOGRAPHY: What is the capital of Tanzania?
+GEOGRAPHY: What is the capital of South Sudan?
+GEOGRAPHY: What is the capital of Rwanda?
+GEOGRAPHY: What is the capital of Uganda?
+GEOGRAPHY: What is the capital of Zimbabwe?
+GEOGRAPHY: What is the capital of Morocco?
+GEOGRAPHY: What is the capital of Libya?
+GEOGRAPHY: What is the capital of Burkina Faso?
+GEOGRAPHY: What is the capital of the Netherlands?
+GEOGRAPHY: What is the capital of Denmark?
+GEOGRAPHY: What is the capital of Norway?
+GEOGRAPHY: What is the capital of Sweden?
+GEOGRAPHY: What is the capital of Russia?
+GEOGRAPHY: What is the capital of Germany?
+GEOGRAPHY: What is the capital of Poland?
+GEOGRAPHY: What is the capital of Italy?
+GEOGRAPHY: What is the capital of Portugal?
+GEOGRAPHY: What is the capital of Greece?
+GEOGRAPHY: What is the capital of Estonia?
+GEOGRAPHY: What is the capital of Latvia?
+GEOGRAPHY: What is the capital of Lithuania?
+GEOGRAPHY: What is the capital of Malta?
+GEOGRAPHY: What is the capital of Liechtenstein?
+GEOGRAPHY: What is the capital of Austria?
+GEOGRAPHY: What is the capital of Croatia?
+GEOGRAPHY: What is the capital of Albania?
+GEOGRAPHY: What is the capital of Bulgaria?
+GEOGRAPHY: What is the capital of Bosnia & Herzegovina?
+GEOGRAPHY: What is the capital of San Marino?
+GEOGRAPHY: What is the capital of Iceland?
+GEOGRAPHY: What is the capital of Czech Republic?
+GEOGRAPHY: What is the capital of Montenegro?
+GEOGRAPHY: What is the capital of Greenland?
+GEOGRAPHY: What is the capital of Cyprus?
+GEOGRAPHY: What is the capital of Belarus?
+GEOGRAPHY: What is the capital of Slovenia?
+GEOGRAPHY: What is the capital of Ukraine?
+GEOGRAPHY: What is the capital of Finland?
+GEOGRAPHY: What is the capital of Hungary?
+GEOGRAPHY: What is the capital of Belgium?
+GEOGRAPHY: What is the capital of Slovakia?
+GEOGRAPHY: What is the capital of Romania?
+GEOGRAPHY: What is the capital of Switzerland?
+GEOGRAPHY: What is the capital of Serbia?
+MATHEMATICS: What is the name of the curve formed by cutting a right circular cone along a plane parallel to the sloping side of the cone?
+MATHEMATICS: What type of number can be expressed as the ratio of an integer to a non-zero integer?
+MATHEMATICS: What is the name given to a line that connects two points of a circle?
+MATHEMATICS: What is the branch of mathematics concerned with the properties and relationships between points, lines, surfaces and solids?
+MATHEMATICS: What type of numbers can be described as the product of a real number and the square root of -1 ('i')?
+MATHEMATICS: What type of numbers can express a distance along a number line?
+MATHEMATICS: What type of numbers are equal to the sum of their divisors, excluding the number itself as a divisor?
+MATHEMATICS: What type of numbers are the positive, non-zero integers, also known as 'counting' numbers?
+MATHEMATICS: What type of numbers are real but cannot be expressed as a ratio of non-zero integers?
+MATHEMATICS: What type of numbers are the positive and negative 'counting' numbers?
+MATHEMATICS: What type of number, n, can only be divided evenly by 1 and n?
+MATHEMATICS: What type of numbers are composed of both real and imaginary components and can be expressed in the form 'a + bi'?
+MATHEMATICS: What type of numbers can be factorised into smaller integers?
+MATHEMATICS: What type of numbers can be represented as dots that are arranged in the shapes of regular polygons?
+MATHEMATICS: What term describes the spread of values in a numerical set about that set's arithmetic mean?
+MATHEMATICS: What term describes angles, x, such that x < 90 degrees?
+MATHEMATICS: What term describes angles, x, such that 90 degrees < x < 180 degrees?
+MATHEMATICS: What term describes angles, x, such that x > 180 degrees?
+GENERAL SCIENCE: How many SI base units are there?
+GENERAL SCIENCE: What unit is electrical conductance measured in?
+GENERAL SCIENCE: What unit is electrical capacitance measured in?
+GENERAL SCIENCE: What unit is electrical resistance measured in?
+GENERAL SCIENCE: What unit is electromotive force (AKA potential difference) measured in?
+GENERAL SCIENCE: What unit is electrical charge measured in?
+GENERAL SCIENCE: What unit is magnetic flux density measured in?
+GENERAL SCIENCE: What unit is radioactive activity measured in?
+GENERAL SCIENCE: What unit is inductance measured in?
+GENERAL SCIENCE: What unit is luminous flux measured in?
+GENERAL SCIENCE: What unit is magnetomotive force (AKA current) measured in?
+PHYSICS: An object remains in the same state of motion unless a resultant force acts on it - First, second or third?
+PHYSICS: Resultant force = mass × acceleration - First, second or third?
+PHYSICS: Every action has an equal and opposite reaction - First, second or third?
+PHYSICS: What is the term for the measure of unavailability of a system's thermal energy for conversion to mechanical energy?
+PHYSICS: What is the term for the heat required to induce a phase change between a solid and a liquid and gas, or a liquid and gas, at constant temperature?
+PHYSICS: If A and B are in thermal equilibrium with C, then A is in thermal equilibrium with B - 0th, 1st, 2nd or 3rd?
+PHYSICS: The total amount of energy in any closed system remains constant always - 0th, 1st, 2nd or 3rd?
+PHYSICS: Heat will always flow from a hotter system to a colder system - 0th, 1st, 2nd or 3rd?
+PHYSICS: As a system approaches 0 K, the ΔS of a system approaches a constant minimum - 0th, 1st, 2nd or 3rd?
+HISTORY: (1066-1087) Which Norman king defeated Harold II at the Battle of Hastings (1066)?
+HISTORY: (1066-1087) Who was the first monarch in the House of Normandy?
+HISTORY: (1066-1087) Which Norman king earned the nickname 'the Conqueror' after his victory at the Battle of Hastings?
+HISTORY: (1087-1100) Which Norman king was the third son of William the Conqueror?
+HISTORY: (1087-1100) Who was King of England during the First Crusade (1096)?
+HISTORY: (1087-1100) Which Norman king repelled invasion attempts from Malcolm III of Scotland?
+HISTORY: (1100-1135) Which Norman king succeeded his brother, William II, to the throne of England?
+HISTORY: (1100-1135) Which Norman king was the fourth son of William I and Matilda of Flanders?
+HISTORY: (1100-1135) Which Norman king issued the Coronation Charter, also known as the Charter of Liberties?
+HISTORY: (1100-1135) The son of which Norman king died in the White Ship disaster, resulting in a succession crisis?
+HISTORY: (1100-1135) Who was the last monarch in the House of Normandy?
+HISTORY: (1141-1148, disputed) Who had her claim to the throne of England usurped by her cousin, Stephen?
+HISTORY: (1141-1148, disputed) Who was titled 'Lady of the English', as opposed to Queen of England?
+HISTORY: (1141-1148, disputed) Who was the daughter of Henry I and Holy Roman Empress (1114-1125)?
+HISTORY: (1141-1148, disputed) Who was the wife of Holy Roman Emperor Henry V and later Geoffrey of Anjou?
+HISTORY: (1135-1154) Which king was the only monarch from the House of Blois?
+HISTORY: (1135-1154) Which nephew of Henry I usurped the throne of England from his cousin, Matilda?
+HISTORY: (1135-1154) Who was the king of England during The Anarchy?
+HISTORY: (1154-1189) Which Plantagenet king was the son of Matilda?
+HISTORY: (1154-1189) Which Plantagenet king was the grandson of Henry I?
+HISTORY: (1154-1189) Which Plantagenet king was married to Eleanor, Duchess of Aquitaine?
+HISTORY: (1154-1189) Who was the first monarch in the House of Plantagenet?
+HISTORY: (1154-1189) Which Plantagenet king enacted the Assize of Clarendon, an act which reorganised the judicial system and began a transformation of English law?
+HISTORY: (1154-1189) Which Plantagenet king had a troubled relationship with Thomas Becket, Archbishop of Canterbury?
+HISTORY: (1189-1199) Which Plantagenet king sold off sheriffdoms to join the Third Crusade in 1190?
+HISTORY: (1189-1199) Which Plantagenet king was succeeded by his brother John?
+HISTORY: (1189-1199) Which Plantagenet king was imprisoned by Duke Leopold of Austria and ransomed off by German emperor Henry VI?
+HISTORY: (1189-1199) Which Plantagenet king joined forces with King Philip II of France against his father?
+HISTORY: (1189-1199) Which Plantagenet king was fatally wounded while warring against King Philip II of France?
+HISTORY: (1199-1216) Which Plantagenet king was excommunicated by Pope Innocent III after an argument in 1209?
+HISTORY: (1199-1216) Which Plantagenet king sealed the Magna Carta at Runymede in 1215?
+HISTORY: (1199-1216) Which Plantagenet king's land tax provoked the ire of his barons, resulting in the First Barons' War?
+HISTORY: (1216-1272) Which king agreed to the Provisions of Oxford (1258), a document that established the right of barons to representation in the king's government?
+HISTORY: (1216-1272) Which Plantagenet king was captured at the Battle of Lewes (1264) and freed by his eldest son?
+HISTORY: (1216-1272) Which Plantagenet king reigned during the Second Barons' War (1263)?
+HISTORY: (1272-1307) Which Plantagenet king invaded Scotland in 1292?
+HISTORY: (1272-1307) Which king had the nickname 'malleus scotorum' ('Hammer of the Scots')?
+HISTORY: (1272-1307) Which Plantagenet prince left England to join the Eighth Crusade in 1270?
+HISTORY: (1272-1307) Which king invaded and annexed Wales in 1283 then built the Ring of Iron, a chain of fortifications?
+HISTORY: (1272-1307) Which Plantagenet king was invited to oversee a succession dispute, only to claim suzerainty over Scotland?
+HISTORY: (1307-1327) Which Plantagenet king was defeated by Robert the Bruce at the Battle of Bannockburn in 1314?
+HISTORY: (1307-1327) Who was king when English nobleman Roger Mortimer invaded England with a small army in 1326?
+HISTORY: (1307-1327) Which king was captured, forced to relinquish his crown in 1327 and died at Berkeley Castle?
+HISTORY: (1327-1377) Which Plantagenet king was crowned at age 14 after his father was forced to relinquish his crown?
+HISTORY: (1327-1377) Which king had Roger Mortimer executed and his mother imprisoned after their part in deposing his father?
+HISTORY: (1327-1377) Which Plantagenet king declared war on Phillip VI of France, which marked the beginning of the Hundred Years' War?
+HISTORY: (1377-1399) Which Plantagenet king was crowned at age 10 after his grandfather died?
+HISTORY: (1377-1399) Who was the king during the Peasants' Revolt (1381)?
+HISTORY: (1377-1399) Which Plantagenet king was deposed by his cousin, Henry Bolingbroke?
+HISTORY: (1377-1399) Which king inherited the throne from his grandfather after the death of his father, Edward the Black Prince?
+HISTORY: (1377-1399) Which Plantagenet king was deposed and imprisoned in Pontefract Castle, where he later died?
+HISTORY: (1377-1399) Who was the last monarch in the House of Plantagenet?
+HISTORY: (1399-1413) Which future king was refused the right to inherit his father's Duchy by Richard II?
+HISTORY: (1399-1413) Before his reign, who was affiliated with the five 'Lords Appellant'?
+HISTORY: (1399-1413) Who was the first monarch in the House of Lancaster?
+HISTORY: (1399-1413) Which Lancastrian king struggled against revolts by Owain Glyndwr, the self-styled Prince of Wales?
+HISTORY: (1399-1413) Which king successfully repelled an uprising by and resulted in the death of Sir Henry Percy?
+HISTORY: (1413-1422) Which Lancastrian king is known for his victory against the French at the Battle of Agincourt (1415)?
+HISTORY: (1413-1422) Which future king was made Prince of Wales at the coronation of his father in 1399?
+HISTORY: (1413-1422) Which Lancastrian king was wounded by an arrow in the face during battle?
+HISTORY: (1413-1422) Which king was known for his military victories against France during the Hundred Years' War?
+HISTORY: (1422-1461) Which Lancastrian king is the only English monarch to also be crowned King of France?
+HISTORY: (1422-1461) Who was king of England when Joan of Arc began to expel the English from France?
+HISTORY: (1422-1461) Who was the last monarch in the House of Lancaster?
+HISTORY: (1422-1461) Who was king of England when the Hundred Years' War ended in 1453?
+HISTORY: (1422-1461) Which Lancastrian king founded Eton College (1440); King's College, Cambridge (1441); All Souls' College, Cambridge (1438)?
+HISTORY: (1422-1461) Which Lancastrian king was imprisoned and murdered in the Tower of London by Edward of York (Edward IV)?
+HISTORY: (1461-1470) Who was the first monarch in the House of York?
+HISTORY: (1461-1470) Which Yorkist defeated Lancastrian forces at the Battle of Towton (1461) and crowned himself king?
+HISTORY: (1461-1470) Which Yorkist overthrew the Lancastrian king Henry VI in 1461?
+HISTORY: (1461-1470) Which Yorkist king was overthrown by the Earl of Warwick and his own brother (George, Duke of Clarence)?
+HISTORY: (1461-1470) Which Yorkist king saw victories against Lancastrian forces in the battles of Barnet and Tewkesbury?
+HISTORY: (10/1470-04/1471) Which Lancastrian king was briefly re-installed after having been deposed by Edward IV?
+HISTORY: (1471-1483) The reign of which Yorkist king was interrupted briefly by the re-installment of Henry VI?
+HISTORY: (04/1483-06/1483) Which Yorkist king inherited the throne at age 12 after his father died suddenly in April, 1483?
+HISTORY: (1483-1485) Which Yorkist king likely had his nephews murdered in the Tower of London?
+HISTORY: (1483-1485) Which king's remains were found buried under a car park in Leicester?
+HISTORY: (1483-1485) Which Yorkist king was killed at the Battle of Bosworth Field on 22nd August, 1485?
+HISTORY: (1483-1485) Who was the last monarch in the House of York?
+GENERAL KNOWLEDGE: How long is a hand (horse measurement), in inches?
+NATO PHONETIC ALPHABET: A?
+NATO PHONETIC ALPHABET: B?
+NATO PHONETIC ALPHABET: C?
+NATO PHONETIC ALPHABET: D?
+NATO PHONETIC ALPHABET: E?
+NATO PHONETIC ALPHABET: F?
+NATO PHONETIC ALPHABET: G?
+NATO PHONETIC ALPHABET: H?
+NATO PHONETIC ALPHABET: I?
+NATO PHONETIC ALPHABET: J?
+NATO PHONETIC ALPHABET: K?
+NATO PHONETIC ALPHABET: L?
+NATO PHONETIC ALPHABET: M?
+NATO PHONETIC ALPHABET: N?
+NATO PHONETIC ALPHABET: O?
+NATO PHONETIC ALPHABET: P?
+NATO PHONETIC ALPHABET: Q?
+NATO PHONETIC ALPHABET: R?
+NATO PHONETIC ALPHABET: S?
+NATO PHONETIC ALPHABET: T?
+NATO PHONETIC ALPHABET: U?
+NATO PHONETIC ALPHABET: V?
+NATO PHONETIC ALPHABET: W?
+NATO PHONETIC ALPHABET: X?
+NATO PHONETIC ALPHABET: Y?
+NATO PHONETIC ALPHABET: Z?
+LITERATURE: Which British author created The Wombles?
+GENERAL KNOWLEDGE: What was the birth name of Marilyn Monroe?
+LITERATURE: Rosalind, Orlando and Touchstone are characters from which Shakespeare play?
+SPORTS: How many tournament grass courts are there at Wimbledon?
+GEOGRAPHY: Which European country has the longest coastline?
+SPORTS: What is the duration (in min) of a rugby union match, excluding stoppage/injury time (W/O UNITS)?
+SPORTS: What was the name of the horse that won the 2018 Grand National?
+OLOGY: Zymology is the study of what?
+GENERAL KNOWLEDGE: What is the national flower of Scotland?
+GENERAL KNOWLEDGE: What is the national flower of England?
+GENERAL KNOWLEDGE: What is the national flower of N.Ireland/Republic of Ireland?
+GENERAL KNOWLEDGE: What is the national flower of Wales?
+GENERAL KNOWLEDGE: What is the national flower of Russia?
+GENERAL KNOWLEDGE: What is the national flower of Austria?
+GENERAL KNOWLEDGE: What is the national flower of Switzerland?
+GENERAL KNOWLEDGE: What is the national flower of Spain?
+GENERAL KNOWLEDGE: What is the national flower of the Netherlands?
+GENERAL KNOWLEDGE: Which astrological sign is active between 21st March - 19th April?
+GENERAL KNOWLEDGE: Which astrological sign is active between 20th April - 20th May?
+GENERAL KNOWLEDGE: Which astrological sign is active between 21st May - 20th June?
+GENERAL KNOWLEDGE: Which astrological sign is active between 21st June - 22nd July?
+GENERAL KNOWLEDGE: Which astrological sign is active between 23rd July - 22nd August?
+GENERAL KNOWLEDGE: Which astrological sign is active between 23rd August - 22nd September?
+GENERAL KNOWLEDGE: Which astrological sign is active between 23rd September - 22nd October?
+GENERAL KNOWLEDGE: Which astrological sign is active between 23rd October - 22nd November?
+GENERAL KNOWLEDGE: Which astrological sign is active between 23rd November - 21st December?
+GENERAL KNOWLEDGE: Which astrological sign is active between 22nd December - 19th January?
+GENERAL KNOWLEDGE: Which astrological sign is active between 20th January - 18th February?
+GENERAL KNOWLEDGE: Which astrological sign is active between 19th February - 20th March?
+GENERAL KNOWLEDGE: What does 'DVD' stand for?
+HISTORY: What year did Yuri Gagarin become the first person to travel to space and complete one orbit of Earth?
+HISTORY: What was the name of the craft in which Yuri Gagarin accomplished his first orbit of Earth?
+HISTORY: What was the name of the spaceflight mission that took Armstrong, Aldrin and Collins to the moon?
+HISTORY: What was the name of the Apollo 11 lunar module that landed Armstrong and Aldrin on the moon?
+HISTORY: What was the name of the Apollo 11 command module that remained in lunar orbit while Armstrong and Aldrin were on the moon?
+HISTORY: What was the name of the rocket that launched Apollo 11?
+HISTORY: What year did NASA successfully land Armstrong and Aldrin on the moon?
+WORLD LANGUAGES: Which Greek letter is denoted by Α and α?
+WORLD LANGUAGES: Which Greek letter is denoted by Β and β?
+WORLD LANGUAGES: Which Greek letter is denoted by Γ and γ?
+WORLD LANGUAGES: Which Greek letter is denoted by Δ and δ?
+WORLD LANGUAGES: Which Greek letter is denoted by Ε and ε?
+WORLD LANGUAGES: Which Greek letter is denoted by Ζ and ζ?
+WORLD LANGUAGES: Which Greek letter is denoted by Η and η?
+WORLD LANGUAGES: Which Greek letter is denoted by Θ and θ?
+WORLD LANGUAGES: Which Greek letter is denoted by Ι and ι?
+WORLD LANGUAGES: Which Greek letter is denoted by Κ and κ?
+WORLD LANGUAGES: Which Greek letter is denoted by Λ and λ?
+WORLD LANGUAGES: Which Greek letter is denoted by Μ and μ?
+WORLD LANGUAGES: Which Greek letter is denoted by Ν and ν?
+WORLD LANGUAGES: Which Greek letter is denoted by Ξ and ξ?
+WORLD LANGUAGES: Which Greek letter is denoted by Ο and ο?
+WORLD LANGUAGES: Which Greek letter is denoted by Π and π?
+WORLD LANGUAGES: Which Greek letter is denoted by Ρ and ρ?
+WORLD LANGUAGES: Which Greek letter is denoted by Σ, σ and ς?
+WORLD LANGUAGES: Which Greek letter is denoted by Τ and τ?
+WORLD LANGUAGES: Which Greek letter is denoted by Υ and υ?
+WORLD LANGUAGES: Which Greek letter is denoted by Φ and φ?
+WORLD LANGUAGES: Which Greek letter is denoted by Χ and χ?
+WORLD LANGUAGES: Which Greek letter is denoted by Ψ and ψ?
+WORLD LANGUAGES: Which Greek letter is denoted by Ω and ω?
+MYTHOLOGY: Who is the GREEK god of thunder and lightning?
+MYTHOLOGY: Who is the GREEK goddess of marriage?
+MYTHOLOGY: Who is the wife of Zeus?
+MYTHOLOGY: Who is the GREEK god of the sea and is often associated with horses?
+MYTHOLOGY: Who is the GREEK god of and often personified as the underworld?
+MYTHOLOGY: Who is the GREEK goddess of agriculture?
+MYTHOLOGY: Which sister of Zeus is also the GREEK goddess of agriculture?
+MYTHOLOGY: Who is the GREEK goddess of the hearth?
+MYTHOLOGY: Which sister of Zeus is also the goddess of the hearth?
+MYTHOLOGY: Who is the GREEK god of the sun as well as associated with music, arts and medicine?
+MYTHOLOGY: Which GREEK god is the brother of Artemis?
+MYTHOLOGY: Which GREEK son of Zeus and Leto is the brother of Artemis?
+MYTHOLOGY: Who is the GREEK god of war?
+MYTHOLOGY: Which GREEK god is the son of Zeus and Hera?
+MYTHOLOGY: Who is the GREEK goddess of the hunt and the moon?
+MYTHOLOGY: Who is the GREEK counterpart of the Roman goddess Diana?
+MYTHOLOGY: Who is the ROMAN counterpart of the Greek goddess Artemis?
+MYTHOLOGY: Which GREEK goddess is the twin sister of Apollo?
+MYTHOLOGY: Who is the GREEK goddess of wisdom?
+MYTHOLOGY: Who is the GREEK god of wine?
+MYTHOLOGY: Who is the GREEK god of fire and the forge?
+MYTHOLOGY: Who is the GREEK messenger and herald of the gods?
+MYTHOLOGY: Who is the GREEK personification of sleep?
+MYTHOLOGY: Who is the GREEK personification of death?
+MYTHOLOGY: Who is the GREEK personification of retribution?
+MYTHOLOGY: Who is the GREEK personification of time?
+MYTHOLOGY: Who reigned as king of the gods before Zeus?
+MYTHOLOGY: Which ancient GREEK god was the husband and brother of Rhea?
+MYTHOLOGY: Who is the GREEK god of love and desire?
+MYTHOLOGY: In GREEK mythology, who is the mother of the Titans and wife of Uranus?
+MYTHOLOGY: In GREEK mythology, who is the father of the Titans and husband of Gaia?
+MYTHOLOGY: Which brother of Atlas stole fire from Olympic gods?
+MYTHOLOGY: Who is the GREEK personification of victory?
+MYTHOLOGY: Who is the GREEK personification of power?
+MYTHOLOGY: Who is the GREEK personification of the night?
+MYTHOLOGY: In GREEK mythology, which ancient mortal slayed the minotaur in the Labyrinth on the Island of Crete?
+MYTHOLOGY: In GREEK mythology, who designed and built the Labyrinth which housed the minotaur?
+MYTHOLOGY: Which daughter of Zeus and Demeter was kidnapped by Hades to become the Queen of the Underworld?
+MYTHOLOGY: Which of Zeus's consorts did he seduce while in the form of a white bull?
+POLITICS: Which city was Boris Johnson born in:  A. London    B. Paris    C. New York    D. New Delhi?
+POLITICS: What is Boris Johnson's first name?
+GENERAL KNOWLEDGE: Which American architect designed the Guggenheim Museum of Art (1959) in New York?
+ANATOMY: What is the largest muscle in the human body?
+LITERATURE: Author of "To Helen", "The Raven", "The Fall of the House of Usher", "Annabel Lee", and "The Tell-tale Heart":
+LITERATURE: Author of "For Whom the Bell Tolls", "A Farewell to Arms", "The Sun Also Rises" and "The Old Man and the Sea":
+US HISTORY: Born into a family of Dutch-Americans, who was the only US President to speak English as a second language?
+SPORTS: What former Chicago Bears teammate won a Super Bowl as a player, assistant coach and a head coach?
+LITERATURE: "The Love Song of J. Alfred Prufrock", "The Waste Land", "The Hollow Men" and Four Quartets?
+GEOGRAPHY: Which US state located on the eastern seaboard partially falls in the Central Time Zone?
+GEOGRAPHY: Established in 1872, what became the world’s first national park?
+SPORTS: At 5'3" (1.60 m), who was the shortest player ever to play in the National Basketball Association?
+TV AND FILM: Prince Humperdinck is the main antagonist in which 1987 fantasy film?
+POLITICS: What is the call sign of any US Marine Corps aircraft carrying the President of the United States?
+LITERATURE: "The Bonfire of the Vanities" (1987) is a satirical novel by which American author and journalist?
+HISTORY: Sappho was an ancient Greek poet from which Greek island?
+SPORTS: Handsome Dan is a bulldog who serves as the mascot of which university’s sports teams?
+MUSIC: "Cat's in the Cradle" (1974) is a folk rock song by which American singer-songwriter?
+HISTORY: Mary Mallon was famously an asymptomatic carrier of what disease?
+GEOGRAPHY: Whistler Blackcomb is a popular ski resort located in which country?
+MUSIC: "Kokomo" (1988) is a song by which American rock band?
+CHEMISTRY: What is the chemical symbol for lead?
+LITERATURE: Which Danish author is considered by many to be the most prolific fairy-tale writer?
+SPORTS: Dick Butkus played professional football as a linebacker for which NFL team (1965-1973)?
+MUSIC: The Waltz in D-flat major, popularly known as the "Minute Waltz", is a piano waltz by which Polish composer?
+ZOOLOGY: Native to the coasts of the N. and E. North Pacific Ocean, which marine mammal is the heaviest in the weasel family?
+TV AND FILM: What animal was the Sheriff of Nottingham in Disney's "Robin Hood" (1973)?
+ART: "Les Demoiselles d'Avignon (The Young Ladies of Avignon)" (1907) is a large oil painting by which Spanish artist?
+GEOGRAPHY: Established in 1946, the ringgit is the currency of which Southeast Asian country?
+LITERATURE: Who wrote "Wuthering Heights" (1847)?
+GENERAL SCIENCE: When referring to phone calls made over the internet, what does the acronym VoIP stand for?
+ASTRONOMY: What term describes the amount of light a planetary body reflects?
+CHEMISTRY: Calling it "inflammable air", which English scientist discovered hydrogen?
+GENERAL SCIENCE: Introduced by Edward Jenner In 1796, what was the first successful vaccine to be developed?
+ASTRONOMY: An Astronomical Unit (AU) is the mean distance between the center of which two objects?
+ASTRONOMY: Which planet's moons are almost all named after literary characters?
+ASTRONOMY: What are the names of the two largest moons of Uranus?
+ASTRONOMY: How many moons does Uranus have?
+ASTRONOMY: What are the names of the moons of Mars?
+ASTRONOMY: How many moons does Jupiter have?
+ASTRONOMY: Which is the largest moon of Jupiter?
+ASTRONOMY: Which is the largest moon in the Solar System?
+ASTRONOMY: How many moons does Saturn have?
+ASTRONOMY: Mimas, Enceladus and Tethys are moons of which planet?
+ASTRONOMY: How many moons does Neptune have?
+ASTRONOMY: Which is the largest moon of Neptune?
+GENERAL SCIENCE: Menlo Park in New Jersey was home to which inventor's research laboratory?
+GENERAL SCIENCE: A modulator-demodulator is a hardware device better known as what?
+ANATOMY: The malleus, incus and stapes are found in what part of the human body?
+GENERAL SCIENCE: In 1885, Louis Pasteur developed a vaccine for which viral disease?
+CHEMISTRY: Which are the only two letters of the alphabet that do not appear on the periodic table?
+GENERAL SCIENCE: What is the term for the speed that a rocket needs to be traveling to break free of Earth's gravity?
+GENERAL SCIENCE: What is the only modern rock 'n' roll song on the Voyager Spacecraft's Golden Records?
+ANATOMY: What is the technical name for innermost toe, or the big toe?
+ASTRONOMY: The red supergiant star Betelgeuse belongs to which constellation?
+ASTRONOMY: What is the name of the red supergiant star in the constellation Orion?
+CHEMISTRY: What is the most abundant chemical element in the Universe?
+HISTORY: On June 16, 1963, which Soviet cosmonaut became the first woman in space?
+ASTRONOMY: What is the most common type of star found in the Milky Way?
+ASTRONOMY: What type of star is our sun?
+GENERAL SCIENCE: Who invented the first alternating current (AC) induction motor?
+ANATOMY: Which parts of the body contain five metacarpal bones each?
+CHEMISTRY: In 1774, which element did Joseph Priestley discover?
+CHEMISTRY: Which inorganic molecule can be produced by lightning?
+GENERAL SCIENCE: What igneous rock has a density less than water?
+GENERAL KNOWLEDGE: A league is equivalent to how many nautical miles at sea?
+ANATOMY: The adult human skeleton is made of up how many bones?
+GEOGRAPHY: What term refers to the horseshoe-shaped zone found along the Pacific rim where approximately 90% of the world's earthquakes occur?
+ANATOMY: What is the name for the upper arm bone found in humans?
+ASTRONOMY: What is the name for meteoroids that survive entry through the atmosphere and reach Earth's surface?
+ASTRONOMY: What is the closest star to our own sun?
+MEDICINE: What is the most common blood type in humans?
+ASTRONOMY: In our solar system, which planet has the shortest day?
+MEDICINE: Which gland in the human body regulates the metabolism?
+MEDICINE: What is the name for the specialised nerve cell that transmits information chemically and electrically throughout the body?
+ASTRONOMY: What is the name for the disc-shaped region of icy bodies located beyond Neptune?
+ASTRONOMY: In our solar system, which two planets are known as ice giants?
+GENERAL KNOWLEDGE: One short ton is equal to how many pounds?
+GENERAL KNOWLEDGE: One long ton is equal to how many pounds?
+HISTORY: Which US President made the first presidential radio broadcast?
+GENERAL SCIENCE: What was the name given to the sheep that was the first mammal cloned from an adult cell?
+ASTRONOMY: What is the farthest human-made object from Earth?
+INVENTORS: In 1837, who developed and patented the electrical telegraph in the US?
+GENERAL KNOWLEDGE: What is the name of the art and practice of garden cultivation and management?
+GENERAL KNOWLEDGE: What do the letters in the acronym SCUBA stand for?
+GENERAL SCIENCE: 186,282 mi/s is the speed of what in a vacuum?
+ASTRONOMY: Which planet in our solar system has an axis that is tilted by 98 degrees?
+GENERAL SCIENCE: Which unit of measure is roughly equivalent to 746 W?
+INVENTORS: Which American is generally given credit for the invention of the lightning rod?
+GENERAL SCIENCE: In welding terminology, what do the letters MIG stand for?
+MEDICINE: In humans, what is the only internal organ capable of regenerating lost tissue?
+ASTRONOMY: Ceres is a dwarf planet that lies between the orbits of which two planets in our solar system?
+GENERAL SCIENCE: What is the name for trees that never lose their leaves?
+MEDICINE: How many pairs of chromosomes are found in the average human?
+GENERAL SCIENCE: What is the name of the atmospheric temperature at which water vapour begins to condense and form dew?
+GENERAL SCIENCE: In most modern vehicles, what mechanism has replaced the carburettor?
+GENERAL KNOWLEDGE: How many furlongs are there in one mile?
+GENERAL SCIENCE: What is the unit of length that is approximately equal to 3.26 light-years?
+CHEMISTRY: What is the must abundant metal in the Earth's crust?
+ASTRONOMY: What was the name of the first US space station?
+CHEMISTRY: What is the second-most abundant element in the Earth's atmosphere?
+MATHEMATICS: What is the largest 3-digit prime number?
+MEDICINE: What vitamin is produced when a person is exposed to sunlight?
+BIOCHEMISTRY: What is the name for a protein that acts as a biological catalyst?
+GENERAL SCIENCE: The European Organisation for Nuclear Research is known by what four-letter acronym?
+GENERAL SCIENCE: In degrees Fahrenheit, what is the melting point of ice?
+GENERAL SCIENCE: What are the names of the seven base SI units of measurement (give answers as singular)?
+GENERAL SCIENCE: What do the letters in the acronym NASA stand for?
+GENERAL SCIENCE: What is the innermost layer of the atmosphere?
+GENERAL SCIENCE: What is the outermost layer of the atmosphere?
+GENERAL SCIENCE: What is the second innermost layer of the atmosphere?
+GENERAL SCIENCE: What is the third layer of the atmosphere?
+GENERAL SCIENCE: What is the second outermost layer of the atmosphere?
+ASTRONOMY: In our solar system, which planet has the strongest gravity?
+ANATOMY: What is the largest internal organ of the human body?
+GENERAL SCIENCE: Who designed and built the Pascaline, a type of calculator?
+PHYSICS: What are the four fundamental forces of nature?
+CHEMISTRY: The filament in an incandescent light bulb is made of what element?
+ASTRONOMY: Which is the closest galaxy to the Milky Way?
+ASTRONOMY: Who was the first NASA astronaut to visit space twice?
+CHEMISTRY: What is the third most abundant gas in Earth's atmosphere?
+GENERAL KNOWLEDGE: In years, approximately how long is an aeon?
+ANATOMY: What is the largest organ of the human body (common name)?
+GENERAL KNOWLEDGE: How many feet are in a mile?
+ASTRONOMY: Who was the last man to walk on the Moon?
+ASTRONOMY: In our solar system, which is the hottest planet?
+ASTRONOMY: Which is the largest of Mars' two moons?
+ASTRONOMY: In 1781, what was the first planet to be discovered using the telescope?
+ASTRONOMY: In our solar system, which of the four rocky planets is the largest and most dense?
+ASTRONOMY: In our solar system, which planet rotates the fastest?
+GENERAL SCIENCE: At what temperature are Celsius and Fahrenheit equal?
+ASTRONOMY: In our solar system, which planet has the longest day?
+ASTRONOMY: In which month is Earth closest to the Sun?
+GEOLOGY: Rubies and sapphires are both made of what rock-forming mineral?
+ASTRONOMY: In our solar system, which two planets rotate clockwise?
+MEDICINE: Which blood type is considered to be the universal donor?
+GENERAL KNOWLEDGE: Who is considered to be 'the father of scuba diving'?
+ASTRONOMY: What was the name of the first man-made satellite?
+ASTRONOMY: How many moons does the planet Venus have?
+GAMES AND ENTERTAINMENT: What consumer electronics and video game company was founded in 1889 and originally produced playing cards?
+FOOD AND DRINK: What fish did Norway introduce to Japan for raw consumption?
+TV AND FILM: Who was the first ever guest on Late Night with David Letterman?
+GEOGRAPHY: What is the capital of Costa Rica?
+FOOD AND DRINK: The traditional Peruvian dish 'cuy' is made with what animal?
+GENERAL KNOWLEDGE: What is the largest religious monument by land area in the world?
+GEOGRAPHY: What city is the headquarters for the Centers for Disease Control and Prevention (CDC) located?
+ZOOLOGY: Believed to grow as large as 60 ft (18 m), what is the largest species of shark currently living in the ocean?
+GEOGRAPHY: What is the largest country in Africa by area?
+GEOGRAPHY: What is the most southerly capital city in the world?
+GENERAL KNOWLEDGE: Which city is Jim Morrison buried in?
+GENERAL KNOWLEDGE: Which city is Karl Marx buried in?
+HISTORY: Around 1765, which two English surveyors drew a line separating the southern slave states from the northern free states?
+HISTORY: Which city is home to the world's first underground railway/subway/tube?
+POLITICS: Who was Chancellor of West Germany (1969-1974) and leader of the Social Democratic Party of Germany?
+POLITICS: (1959-1990) Who was the Prime Minister of the Republic of Singapore?
+POLITICS: Who was Prime Minister (1946-1955) and President (1955-1969) of the Socialist Republic of Vietnam?
+POLITICS: Who was President of Argentina (1946-1955; 1973-1974)?
+POLITICS: Who was President of Uganda (1971-1979)?
+POLITICS: Who was President of Chile (1970-1973) until his suicide during the coup d'etat of 11th Sept, 1973?
+POLITICS: Who was President of Syria (1971-2000)?
+POLITICS: Who was the first elected Prime Minster of the Democratic Republic of the Congo (1960)?
+CHEMISTRY: Which element has the Latin name 'stibium'?
+CHEMISTRY: Which element has the Latin name 'aurum'?
+CHEMISTRY: Which element has the Latin name 'stannum'?
+CHEMISTRY: Which element has the Latin name 'kalium'?
+CHEMISTRY: Which element has the Latin name 'argentum'?
+CHEMISTRY: Which element has the Latin name 'natrium'?
+CHEMISTRY: Which element has the Latin name 'ferrum'?
+CHEMISTRY: Which element has the Latin name 'cuprum'?
+CHEMISTRY: Which element has the Latin name 'hydrargyrum'?
+CHEMISTRY: Which element has the Latin name 'plumbum'?
+CHEMISTRY: Which element has the Latin name 'wolfram'?
+INVENTORS: Who developed the first IQ test (1905)?
+GENERAL KNOWLEDGE: What does a Binet-Simon test purport to measure?
+INVENTORS: Who invented condensed milk (1853)?
+INVENTORS: Who invented the electric lamp/arc lamp/miner's lamp (1801)?
+CHEMISTRY: Who discovered the proton (1919)?
+INVENTORS: Who invented Portland cement (1824)?
+INVENTORS: Who invented the World Wide Web (1989)?
+INVENTORS: Who invented the double-rotor helicopter (1936)?
+INVENTORS: Who invented reinforced concrete (1877)?
+INVENTORS: Who invented the zipper (1891)?
+INVENTORS: Who first discovered radio waves emanating from the Milky Way (1932)?
+INVENTORS: Who invented the pressure cooker (1679)?
+INVENTORS: Who first induced anaesthesia using inhaled sulfuric ether (1842)?
+INVENTORS: Who first gave a complete characterisation of the mechanism of systemic circulation of blood around the body (1628)?
+CHEMISTRY: Who first isolated oxygen (1774)?
+CHEMISTRY: Who first came up with the nuclear model of the atom (1911)?
+BIOLOGY: Who first derived cell theory (1665)?
+CHEMISTRY: Who discovered the neutron (1932)?
+PHYSICS: Who first proposed the Big Bang Theory (1927)?
+INVENTORS: Who created and built the first liquid-fueled rocket (1926)?
+INVENTORS: Who discovered x-rays (1895)?
+INVENTORS: Who discovered bacteria (1683) and spermatozoa (1677)?
+CHEMISTRY: Who is regarded as the first modern chemist (1627-1691)?
+CHEMISTRY: Which law describes the inversely proportional relationship between the absolute pressure and volume of a gas (1662)?
+INVENTORS: Who first proposed ice ages and was instrumental in the founding of glaciology?
+INVENTORS: Who invented the first automobile with an internal combustion engine (1885)?
+INVENTORS: Who invented radiocarbon dating (1947)?
+INVENTORS: Who invented vaccination (1796)?
+INVENTORS: Who invented the cotton gin (1793)?
+INVENTORS: Who developed the first Polio vaccine (1952)?
+INVENTORS: Who discovered the photovoltaic effect (1839)?
+INVENTORS: Who invented the barometer (1643)?
+CHEMISTRY: Who first proposed modern atomic theory (1808)?
+PHYSICS: Who first proposed the electromagnetic theory of light (1873)?
+BIOLOGY: Who first proposed the laws of heredity (1865)?
+INVENTORS: Who invented the ball-point pen (1944)?
+INVENTORS: Who single-handedly invented the first turbojet engine (1936)?
+INVENTORS: Who invented the machine gun (1862)?
+INVENTORS: Who invented the revolver, thereby making men equal (1835)?
+PHYSICS: Who discovered nuclear fission (1938)?
+INVENTORS: Who is generally credited with the invention of bifocal lenses (c. 1760)?
+INVENTORS: Who discovered fermentation (c. 1860)?
+INVENTORS: Who invented air conditioning (1911)?
+INVENTORS: Who is considered to be the pioneer of antiseptic surgery (c. 1867)?
+INVENTORS: Who discovered the positron (1932)?
+INVENTORS: Who invented dynamite (1867)?
+INVENTORS: Who discovered energy quanta (1900)?
+INVENTORS: Who invented vulcanised rubber (1839)?
+ASTRONOMY: Who derived the laws of planetary motion (1609)?
+INVENTORS: Who invented the single-rotor helicopter (1939)?
+INVENTORS: Who invented the stethoscope (1819)?
+INVENTORS: Who invented the electromagnet (1823)?
+INVENTORS: Who invented Coca-Cola (1886)?
+INVENTORS: Who invented the electric generator (1832)?
+INVENTORS: Who invented the safety razor (1901)?
+INVENTORS: Who invented the Polaroid camera (1948)?
+CHEMISTRY: Who discovered the electron (1897)?
+INVENTORS: Who invented the telescope (1608)?
+INVENTORS: Who pioneered the means to preserve food by freezing it (1924)?
+INVENTORS: Who invented the first self-sustaining nuclear reactor (1942)?
+INVENTORS: Who invented the passenger elevator (1852)?
+INVENTORS: Who first developed the binomial naming system by which plants and animals are classified?
+INVENTORS: Who invented the cyclotron (1931)?
+ASTRONOMY: In our solar system, which planet has the strongest winds?
+ASTRONOMY: In our solar system, which of the gas giants has the highest density?
+ASTRONOMY: Which planet was discovered by William Herschel?
+ASTRONOMY: In our solar system, which planet is alternatively known as "Morning Star" or "Evening Star"?
+ASTRONOMY: In our solar system, which planet completes an orbit of the Sun every 88 days?
+ASTRONOMY: In our solar system, which planet has the largest canyon in the Solar System (Valles Marineris)?
+ASTRONOMY: In our solar system, which planet is named after the GREEK Titan God of the Sky?
+ASTRONOMY: Which was the first planet that was mathematically predicted before it was observed?
+ASTRONOMY: In our solar system, which planet has an atmosphere comprised of H2, CH4 and NH3?
+ASTRONOMY: In our solar system, which is the only planet that is less dense than liquid water?
+ASTRONOMY: In our solar system, which planet has the densest atmosphere?
+ASTRONOMY: In 1974-75, Mariner 10 flew past which planet three times?
+MYTHOLOGY: Who is the ROMAN king of the gods?
+MYTHOLOGY: Which ROMAN god is the consort of Juno?
+MYTHOLOGY: Who is the ROMAN goddess of youth and rejuvenation?
+MYTHOLOGY: Who is the ROMAN queen of the gods?
+MYTHOLOGY: Who is the ROMAN goddess of marriage?
+MYTHOLOGY: Which ROMAN goddess is the consort of Jupiter?
+MYTHOLOGY: Who is the ROMAN personification of the dawn?
+MYTHOLOGY: Who is the ROMAN god of wine?
+MYTHOLOGY: Who is the ROMAN goddess of strife and discord?
+MYTHOLOGY: Who is the ROMAN goddess who embodies agreement in marriage and society?
+MYTHOLOGY: Who is the GREEK goddess of strife and discord?
+MYTHOLOGY: Who is the ROMAN goddess of forgiveness and mercy?
+MYTHOLOGY: Who is the ROMAN god of love and desire?
+MYTHOLOGY: Who is the ROMAN god of war?
+MYTHOLOGY: Who is the ROMAN god of wisdom?
+MYTHOLOGY: Who is the ROMAN goddess of love?
+MYTHOLOGY: Who is the ROMAN god of fire and the forge?
+MYTHOLOGY: Who is the ROMAN goddess of horses and horsemanship?
+MYTHOLOGY: Which ROMAN nymph represents flowers and springtime?
+MYTHOLOGY: Which GREEK nymph represents flowers and springtime?
+MYTHOLOGY: What is the ROMAN name for the Greek hero Heracles?
+MYTHOLOGY: What is the GREEK name for the Roman hero Hercules?
+MYTHOLOGY: Who superseded - and is sometimes considered to be synonymous with - Hades as the god of the underworld?
+MYTHOLOGY: Who is the GREEK king of the gods?
+MYTHOLOGY: Who is the GREEK queen of the gods?
+MYTHOLOGY: Who is the GREEK goddess of wisdom?
+MYTHOLOGY: Who is the GREEK god of the sea?
+MYTHOLOGY: Which cyclops was blinded by Odysseus and his crew after the found themselves trapped in his cave?
+MYTHOLOGY: Who is the GREEK goddess of love?
+MYTHOLOGY: Who is the two-faced ROMAN god of doorways, gates and entrances?
+MYTHOLOGY: Which serpentine water monster was killed by Heracles as part of his Twelve Labours?
+MYTHOLOGY: What mythological creature has the head of a lion, a snake for a tail and a goat's head on its back?
+MYTHOLOGY: Who is the GREEK god of the wild and also has the legs and horns of a goat?
+MYTHOLOGY: Which fire-breathing giant and son of Vulcan was killed by Hercules before the founding of Rome?
+HARRY POTTER: How many Principle Exceptions are there to Gamp's Law of Elemental Transfiguration?
+HARRY POTTER: What colour are Winky's eyes?
+HARRY POTTER: What is the name of the Bulgarian Minister for Magic in GoF (surname)?
+HARRY POTTER: What type of hat was Elphias Doge wearing at Bill and Fleur's wedding?
+HISTORY: Which 14th century king was the son of Edward the Black Prince?
+GEOGRAPHY: Which is the largest of the Balearic Islands?
+GEOGRAPHY: Which is the second largest of the Balearic Islands?
+GEOGRAPHY: Which is the third largest (and second smallest) of the Balearic Islands?
+GEOGRAPHY: Which is the fourth largest (and smallest) of the Balearic Islands?
+ZOOLOGY: Which bird is nicknamed the 'windhover'?
+FOOD AND DRINK: Which herb is traditionally used to make pesto?
+SPORTS: Who was the first Asian tennis player to hold the number one ranking in singles?
+MUSIC: Andy Summers and Stewart Copeland were two members of which pop/rock trio formed in the late seventies?
+TV AND FILM: Who is the wife of Matthew Macfadyen?
+GENERAL KNOWLEDGE: What name is given to the twin-engined Boeing 787 which entered service in 2011?
+ARCHITECTURE: Which American architect invented the Geodesic Dome?
+ARCHITECTURE: Richard Buckminster Fuller is known for his invention of what kind of structure?
+ARCHITECTURE: Which Canadian-American architect designed the Guggenheim Museum (1997) in Bilbao, Spain?
+CHEMISTRY: What is the name for the cage-like fused-ring structure with the chemical formula C60?
+CHEMISTRY: Which English chemist shared the 1996 Nobel Prize in Chemistry for his discovery of fullerenes?
+ARCHITECTURE: Which Spanish architect is known for his incomplete work on 'Sagrada Família' (1883) in Barcelona?
+ARCHITECTURE: Antonio Gaudí (1852-1926) is best known for his work on which Spanish building (Spanish name)?
+ARCHITECTURE: What is the Basílica de la Sagrada Família known as in English?
+GEOGRAPHY: In which Spanish city would you find the Basílica de la Sagrada Família?
+GEOGRAPHY: In which city would you find the Dancing House, also known as 'Fred and Ginger'?
+ARCHITECTURE: The Dancing House in Prague is also known by which nickname?
+ARCHITECTURE: Who designed the Dancing House (AKA 'Fred and Ginger') in Prague, Czech Republic?
+ARCHITECTURE: Which British architect laid out Trafalgar Square and St. James's Park?
+ARCHITECTURE: Which American architect is known as the 'father of modernism'?
+ARCHITECTURE: Which British architect designed the Ashmolean Museum at Oxford?
+ARCHITECTURE: What name is given to building materials made from earth and organic materials?
+MUSIC: Which Austrian composer of the Classical period is known by the epithet "Father of the Symphony"?
+TV AND FILM: Who voices the character of Dr Nefario in the Despicable Me films?
+GENERAL KNOWLEDGE: What design style is characterised by geometrical shapes, bold outlines and zigzag forms?
+ART: Which German art school operational from 1919-1933 sought to combine aesthetics with everyday function?
+GENERAL KNOWLEDGE: By what name is the bowler hat known in the USA?
+HISTORY: Which of the seven ancient kingdoms of England occupied the region now known as The Midlands?
+FOOD AND DRINK: 'Blue Vinney' cheese is made in which English county?
+ART: What word describes the use of strong, bold contrasts between light/dark thus affecting a whole composition?
+ART: Artist Michelangelo Merisi (1571-1610) is better known by which name?
+HISTORY: Who gave a speech entitled "The Ballot or the Bullet" (1964)?
+HISTORY: Edward the Confessor > Harold II > x > William II > Henry I.  Which monarch is x?
+HISTORY: Harold II > William I > x > Henry I > Stephen.  Which monarch is x?
+HISTORY: William I > William II > x > Stephen > Henry II.  Which monarch is x?
+HISTORY: William II > Henry I > x > Henry II > Richard I.  Which monarch is x?
+HISTORY: Henry I > Stephen > x > Richard I > John.  Which monarch is x?
+HISTORY: Stephen > Henry II > x > John > Henry III.  Which monarch is x?
+HISTORY: Henry II > Richard I > x > Henry III > Edward I.  Which monarch is x?
+HISTORY: Richard I > John > x > Edward I > Edward II.  Which monarch is x?
+HISTORY: John > Henry III > x > Edward II > Edward III.  Which monarch is x?
+HISTORY: Henry III > Edward I > x > Edward III > Richard II.  Which monarch is x?
+HISTORY: Edward I > Edward II > x > Richard II > Henry IV.  Which monarch is x?
+HISTORY: Edward II > Edward III > x > Henry IV > Henry V.  Which monarch is x?
+HISTORY: Edward III > Richard II > x > Henry V > Henry VI.  Which monarch is x?
+HISTORY: Richard II > Henry IV > x > Henry VI > Edward IV.  Which monarch is x?
+HISTORY: Henry IV > Henry V > x > Edward IV > Henry VI.  Which monarch is x?
+HISTORY: Henry V > Henry VI > x > Henry VI > Edward IV.  Which monarch is x?
+HISTORY: Henry VI > Edward IV > x > Edward IV > Edward V.  Which monarch is x?
+HISTORY: Edward IV > Henry VI > x > Edward V > Richard III.  Which monarch is x?
+HISTORY: Henry VI > Edward IV > x > Richard III > Henry VII.  Which monarch is x?
+HISTORY: Edward IV > Edward V > x > Henry VII > Henry VIII.  Which monarch is x?
+HISTORY: Edward V > Richard III > x > Henry VIII > Edward VI.  Which monarch is x?
+HISTORY: Richard III > Henry VII > x > Edward VI > Mary I.  Which monarch is x?
+HISTORY: Henry VII > Henry VIII > x > Mary I > Elizabeth I.  Which monarch is x?
+HISTORY: Henry VIII > Edward VI > x > Elizabeth I > James I.  Which monarch is x?
+HISTORY: Edward VI > Mary I > x > James I > Charles I.  Which monarch is x?
+ART: What was the title of the only painting Vincent van Gogh sold during his lifetime?
+ASTRONOMY: Titan is a satellite of which body in the Solar System?
+ASTRONOMY: Iapetus is a satellite of which body in the Solar System?
+ASTRONOMY: Rhea is a satellite of which body in the Solar System?
+ASTRONOMY: Dione is a satellite of which body in the Solar System?
+ASTRONOMY: Tethys is a satellite of which body in the Solar System?
+ASTRONOMY: Enceladus is a satellite of which body in the Solar System?
+ASTRONOMY: Mimas is a satellite of which body in the Solar System?
+ASTRONOMY: Hyperion is a satellite of which body in the Solar System?
+ASTRONOMY: Pandora is a satellite of which body in the Solar System?
+ASTRONOMY: Ganymede is a satellite of which body in the Solar System?
+ASTRONOMY: Callisto is a satellite of which body in the Solar System?
+ASTRONOMY: Io is a satellite of which body in the Solar System?
+ASTRONOMY: Europa is a satellite of which body in the Solar System?
+ASTRONOMY: Amalthea is a satellite of which body in the Solar System?
+ASTRONOMY: Oberon is a satellite of which body in the Solar System?
+ASTRONOMY: Titania is a satellite of which body in the Solar System?
+ASTRONOMY: Ariel is a satellite of which body in the Solar System?
+ASTRONOMY: Umbriel is a satellite of which body in the Solar System?
+ASTRONOMY: Miranda is a satellite of which body in the Solar System?
+ASTRONOMY: Puck is a satellite of which body in the Solar System?
+ASTRONOMY: Triton is a satellite of which body in the Solar System?
+ASTRONOMY: Proteus is a satellite of which body in the Solar System?
+ASTRONOMY: Nereid is a satellite of which body in the Solar System?
+ASTRONOMY: Larissa is a satellite of which body in the Solar System?
+ASTRONOMY: Galatea is a satellite of which body in the Solar System?
+ASTRONOMY: Despina is a satellite of which body in the Solar System?
+ASTRONOMY: Charon is a satellite of which body in the Solar System?
+ASTRONOMY: Hydra is a satellite of which body in the Solar System?
+ASTRONOMY: Nix is a satellite of which body in the Solar System?
+ASTRONOMY: Kerberos is a satellite of which body in the Solar System?
+ASTRONOMY: Styx is a satellite of which body in the Solar System?
+HISTORY: What is the name of the oldest pub in the UK, located in Nottingham and est. c. 1189 AD?
+GEOGRAPHY: Which is the largest National Park in the UK (est. 2003)?
+GEOGRAPHY: Which National Park was the first to be established in Scotland (est. 2002)?
+GEOGRAPHY: Which was the first National Park to be established in the UK (est. 1951)?
+GEOGRAPHY: How many National Parks are there in Scotland?
+GEOGRAPHY: Which is the latest National Park to be established (est. 2010)?
+GEOGRAPHY: What year was the Cairngorms National Park established?
+GEOGRAPHY: What year was the Loch Lomond and the Trossachs National Park established?
+GEOGRAPHY: Originally established as a Royal Forest, which National Park extends over Hampshire and Wiltshire?
+ARCHITECTURE: In a castle, what is the name of the walk-walk along the top of the battlements where archers fight from?
+ARCHITECTURE: What name is given to a courtyard in a castle?
+ARCHITECTURE: In a castle, what is the name of a corner turret protruding from a tower or wall?
+CASTLES: Which castle was Edward II murdered in?
+CASTLES: Which castle was Henry IV born in?
+CASTLES: Which castle was Edward II born in?
+CASTLES: Which castle is known as the "key of England"?
+CASTLES: Which is the largest castle in England?
+CASTLES: Which is the largest castle in Scotland?
+CASTLES: Which is the largest castle in Wales?
+CASTLES: Which castle is linked to Arthurian legend?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 1st anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 3rd anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 5th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 10th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 15th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 20th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 25th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 30th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 35th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 40th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 45th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 55th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 60th anniversary?
+GENERAL KNOWLEDGE: What gift is traditionally given on a 70th anniversary?
+GENERAL KNOWLEDGE: Garnet is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Amethyst is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Aquamarine is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Diamond is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Emerald is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Pearl is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Ruby is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Peridot is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Sapphire is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Opal is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Topaz is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: Turquoise is the traditional birthstone for which month?
+GENERAL KNOWLEDGE: What day is St Andrew's Day (dd month)?
+GENERAL KNOWLEDGE: What day is Bastille Day (dd month)?
+GENERAL KNOWLEDGE: What day is Burns' Night (dd month)?
+GENERAL KNOWLEDGE: What day is St David's Day (dd month)?
+GENERAL KNOWLEDGE: What day is Epiphany (dd month)?
+GENERAL KNOWLEDGE: What day is St George's Day (dd month)?
+GENERAL KNOWLEDGE: What day is St Nicholas' Day (dd month)?
+GENERAL KNOWLEDGE: What day is St Patrick's Day (dd month)?
+GENERAL KNOWLEDGE: What day is St Swithin's Day (dd month)?
+GENERAL KNOWLEDGE: What day is Midsummer Day (dd-month)?
+TV AND FILM: What film was Marilyn Monroe in the middle of filming when she died?
+TV AND FILM: Which actress was also a Miss Ohio winner?
+TV AND FILM: Which member of the Royal Family was the first to speak in a fictional film?
+TV AND FILM: Who was the first British actor to win an Academy Award?
+TV AND FILM: Who has won the most Academy Awards?
+TV AND FILM: How many Academy Awards were won by Walt Disney?
+TV AND FILM: Who was the first member of the Royal Family to appear on film?
+TV AND FILM: What is the name of the Pearl and Dean music?
+TV AND FILM: What was the name of the first feature-length film with sound?
+TV AND FILM: What was the name of the first Western film?
+TV AND FILM: Which film studio was formed by Mary Pickford, Douglas Fairbanks, Charlie Chaplin and DW Griffith?
+GENERAL KNOWLEDGE: What year was the University of Aberdeen founded?
+GENERAL KNOWLEDGE: What year was the University of Oxford founded?
+GENERAL KNOWLEDGE: What year was the University of Cambridge founded?
+GENERAL KNOWLEDGE: What year was the University of Edinburgh founded?
+TV AND FILM: Who sang the theme tune to the James Bond film 'Licence to Kill'?
+GENERAL KNOWLEDGE: In which Sussex town was Theresa May born?
+RELIGION: Which Biblical figure was betrayed by his lover to his Philistine enemies who gouged out his eyes?
+RELIGION: Who was the lover of Samson?
+RELIGION: Who brought down the Temple of Dagon, killing himself and the Philistines?
+GENERAL KNOWLEDGE: On which part of the body would a buskin be worn?
+LITERATURE: Which author's first published novel was 'Call for the Dead' (1961)?
+HISTORY: What year did Mt. Vesuvius erupt, destroying the cities of Pompeii and Herculaneum?
+HISTORY: What year did Pliny the Elder die?
+GEOGRAPHY: What is the capital of Malawi?
+HISTORY: Which Archbishop of Canterbury officiated over the wedding of Princess Elizabeth and Philip Mountbatten?
+CHEMISTRY: Which element has the atomic number 113?
+SPORTS: In which weight division did boxer Nicola Adams win gold medals in the 2012 and 2016 Olympic Games?
+SPORTS: In which year did the first cricket test match take place on English soil?
+GENERAL KNOWLEDGE: Which car manufacturer makes the Aygo, Prius and Corolla models?
+GEOGRAPHY: The river Lena is in which country?
+ZOOLOGY: The Martial is a species of which bird?
+ZOOLOGY: The Pygmy is a species of which bird?
+ZOOLOGY: The Harpy is a species of which bird?
+HISTORY: Which is the University of Cambridge's oldest college?
+HISTORY: Which is the University of Oxford's oldest college?
+HISTORY: Who founded the public school Harrow?
+HISTORY: Which Roman Emperor was the husband of Agrippina the Younger?
+HISTORY: Which year did Roman Emperor Claudius I die?
+GAMES AND ENTERTAINMENT: Which company produced the PET home computer from 1977?
+MUSIC: Fritz Kreisler (1875-1962) is known for playing which instrument?
+SPORTS: Which footballer was named Player of the Tournament in the 2018 FIFA World Cup?
+TV AND FILM: Which film, starring Charles Laughton, won the Academy Award for Best Picture in 1936?
+MUSIC: What is Paul McCartney's first name?
+GENERAL KNOWLEDGE: What was the name of the first air hostess (1930)?
+SPORTS: Where do Arsenal play their home games?
+SPORTS: Where do Aston Villa play their home games?
+SPORTS: Where do Brighton & Hove Albion play their home games?
+SPORTS: Where do Burnley play their home games?
+SPORTS: Where do Chelsea play their home games?
+SPORTS: Where do Crystal Palace play their home games?
+SPORTS: Where do Everton play their home games?
+SPORTS: Where do Fulham play their home games?
+SPORTS: Where do Leeds United play their home games?
+SPORTS: Where do Leicester City play their home games?
+SPORTS: Where do Liverpool play their home games?
+SPORTS: Where do Manchester City play their home games?
+SPORTS: Where do Manchester United play their home games?
+SPORTS: Where do Newcastle United play their home games?
+SPORTS: Where do Sheffield United play their home games?
+SPORTS: Where do Southampton play their home games?
+SPORTS: Where do Tottenham Hotspur play their home games?
+SPORTS: Where do West Bromwich Albion play their home games?
+SPORTS: Where do West Ham United play their home games?
+SPORTS: Where do Wolverhampton Wanderers play their home games?
+CHEMISTRY: What is the atomic number of gallium?
+CHEMISTRY: What is the atomic number of germanium?
+CHEMISTRY: Which crystal system does wurtzite ((Fe, Zn)S) have?
+CHEMISTRY: What crystal system does ZnS adopt when in its wurtzite form?
+CHEMISTRY: What is the two-word name of the cubic form of zinc (II) sulfide?
+CHEMISTRY: What is the one-word name of the cubic form of zinc (II) sulfide?
+CHEMISTRY: What percentage of the tetrahedral sites are occupied by Zn(II) in sphalerite?
+CHEMISTRY: What is the chemical formula of sphalerite?
+SPORTS: Where do Sunderland play their home games?
+SPORTS: Where do Sheffield Wednesday play their home games?
+POLITICS: Who was the British Prime Minister 13th July 2016 - 24th July 2019?
+POLITICS: Who was the British Prime Minister 11th May 2010 - 13th July 2016?
+POLITICS: Who was the British Prime Minister 27th June 2007 - 11th May 2010?
+POLITICS: Who was the British Prime Minister 2nd May 1997 - 27th June 2007?
+POLITICS: Who was the British Prime Minister 28th November 1990 - 2nd May 1997?
+POLITICS: Who was the British Prime Minister 5th April 1976 - 4th May 1979?
+POLITICS: Who was the British Prime Minister 4th March 1974 - 5th April 1976?
+POLITICS: Who was the British Prime Minister 19th June 1970 - 4th March 1974?
+POLITICS: Which political party did British PM Edward Heath belong to?
+POLITICS: Which political party did British PM James Callaghan belong to?
+POLITICS: Which political party did British PM Harold Wilson belong to?
+POLITICS: Which political party did British PM John Major belong to?
+POLITICS: Which political party did British PM Gordon Brown belong to?
+POLITICS: Who was the British Prime Minister 19th October 1963 - 16th October 1964?
+POLITICS: Who was the British Prime Minister 10th January 1957 - 18th October 1963?
+POLITICS: Who was the British Prime Minister 6th April 1955 - 9th January 1957?
+POLITICS: Who was the British Prime Minister 26th October 1951 - 5th April 1955?
+POLITICS: Who was the British Prime Minister 26th July 1945 - 26th October 1951?
+MEDICINE: In what year was the first blood transfusion performed?
+SPORTS: Who was the first athlete to use a crouch start before a race?
+HISTORY: Who was the first English monarch to abdicate the throne (1399)?
+GENERAL KNOWLEDGE: In what year did the first Miss World competition take place?
+MEDICINE: In what year did the first heart transplant take place?
+HISTORY: Who was the first Prince of Wales (1301)?
+HISTORY: What year did the Battle of Bannockburn occur?
+POLITICS: Who was the first woman MP to take seat in the UK?
+HISTORY: In what year did the Wright Brothers make their historic flight?
+MATHEMATICS: Who invented the 'equals' sign?
+HISTORY: Who is known as the 'Father of Greek Tragedy'?
+MUSIC: Who is known as the 'Man in Black'?
+HISTORY: Who is known as the 'Father of Comedy'?
+MUSIC: Who is known as 'Satchmo'?
+HISTORY: By what nickname was Rodrigo de Vivar better known?
+GENERAL KNOWLEDGE: What is the real name of Mr Motivator?
+MUSIC: Florian Cloud de Bounevialle O'Malley Armstrong performs under what stagename?
+HISTORY: Who was the brother of the Phoenician queen Dido?
+HISTORY: Who was the sister of Pygmalion?
+GENERAL KNOWLEDGE: Lesley Hornby is better known by what nickname?
+MEDICINE: Who is known as the 'Father of Medicine'?
+HISTORY: What was the nickname of Erwin Rommel?
+SPORTS: Which ex-NFL player used to be known as 'The Juice'?
+GENERAL KNOWLEDGE: What occupation shoes horses?
+GENERAL KNOWLEDGE: What occupation makes or sells archery bows?
+GENERAL KNOWLEDGE: What occupation is an official in charge of finance in educational institutions?
+GENERAL KNOWLEDGE: What occupation draws out maps?
+GENERAL KNOWLEDGE: What occupation makes barrels?
+GENERAL KNOWLEDGE: What occupation makes carts?
+GENERAL KNOWLEDGE: What occupation/hobbyist rings bells?
+GENERAL KNOWLEDGE: What occupation is a pork butcher?
+GENERAL KNOWLEDGE: What occupation makes arrows?
+GENERAL KNOWLEDGE: What is the name for the highest-ranked petty officer responsible for the deck crew?
+GENERAL KNOWLEDGE: What occupation is a seller of sewing articles e.g. buttons, needles, etc.?
+GENERAL KNOWLEDGE: In Roman times, what was the name for a tax collector?
+GENERAL KNOWLEDGE: What occupation makes or sells women's hats?
+GENERAL KNOWLEDGE: What occupation deals in textiles?
+GENERAL KNOWLEDGE: What occupation is responsible for church upkeep?
+HISTORY: Which Greek philosopher was the first to pose atomistic theory?
+TV AND FILM: What relation is Christopher Lee to Ian Fleming?
+MYTHOLOGY: Which winged horse is the offspring of Poseidon and Medusa?
+MYTHOLOGY: Which Greek hero defeated the Chimera?
+RELIGION: What is the name of the skullcap worn by some Jewish men?
+FOOD AND DRINK: 'Duncan' and 'Marsh' are types of what fruit?
+GEOGRAPHY: In what country is the tallest waterfall in the world?
+GENERAL KNOWLEDGE: What is a name for a warm, dry wind that blows in the Rocky Mountain region of N.America?
+GEOGRAPHY: What is the world's largest island?
+GEOGRAPHY: What is the world's largest lake?
+ASTRONOMY: The stars Alnitak, Alnilam and Mintaka are collectively known as what?
+ASTRONOMY: Aldebaran is a star in which constellation?
+ASTRONOMY: Bellatrix is a star in which constellation?
+ASTRONOMY: Rigel is a star in which constellation?
+ASTRONOMY: Betelgeuse is a star in which constellation?
+HISTORY: Who was the first monarch in the House of Tudor?
+GENERAL KNOWLEDGE: How many yards are there in a mile?
+LITERATURE: Malvolio is a character from which Shakespeare play?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle FOUR times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle TWO times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle EIGHT times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle TWELVE times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle SIXTEEN times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle TWENTY times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle TWENTY-FOUR times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle THIRTY-FIVE times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle THIRTY-SIX times the size of a standard 750 mL bottle?
+GENERAL KNOWLEDGE: What name is given to a champagne bottle FORTY times the size of a standard 750 mL bottle?
+GAMES AND ENTERTAINMENT: How many squares are there on a standard Scrabble board?
+LITERATURE: In Orwell's 'Animal Farm', what animal was Boxer?
+LITERATURE: In Orwell's 'Animal Farm', what animal was Napoleon?
+LITERATURE: In Orwell's 'Animal Farm', what was the name of the cart-horse?
+LITERATURE: In Orwell's 'Animal Farm', what was the name of the pig that assumes leadership of the farm?
+POLITICS: Who was the first Secretary-General of the United Nations?
+POLITICS: Who was the first female Prime Minister of Pakistan (1988)?
+POLITICS: Who was the first female Prime Minister of a Muslim country (1988)?
+GENERAL KNOWLEDGE: Who was the first pilot to exceed the speed of sound (1947)?
+GAMES AND ENTERTAINMENT: Which UK band launched Channel 5 on 30th March, 1997?
+MUSIC: What was Cliff Richard's first UK Number One single?
+POLITICS: Who was the first black US Secretary of State?
+MUSIC: Which band was the first to perform on Top of the Pops?
+HISTORY: What was the first name of the first First Lady of the USA?
+SPORTS: Who was the first person to be awarded the FWA Footballer of the Year award?
+TV AND FILM: In what year did Coronation Street first broadcast?
+SPORTS: In which country did the first football World Cup take place (1930)?
+SPORTS: Who was the first man to officially run 100 m in less than 10 s?
+TV AND FILM: Who was the first person to be seen on Channel 4?
+GENERAL KNOWLEDGE: In which country was the first CD made?
+GENERAL SCIENCE: What does USB stand for?
+GENERAL SCIENCE: In what year was Sir Isaac Newton born?
+GENERAL KNOWLEDGE: Along with Bill Gates, who co-founded Microsoft?
+PHOBIAS: What is cynophobia a fear of?
+GENERAL KNOWLEDGE: What does GIF stand for?
+CHEMISTRY: 'Rose gold' gains its colour from adding which metal to gold?
+GENERAL SCIENCE: What is the name given to 1/1,000,000th of a second?
+GENERAL KNOWLEDGE: In which year was Concorde officially retired?
+POLITICS: In which year did 10 Downing Street become the official residence of the UK Prime Minister?
+SPORTS: Which years did the UK host the Summer Olympic Games?
+POLITICS: Who was the first female Prime Minister of Australia (2010-2013)?
+HISTORY: Which monarch has the third-longest reign of all UK monarchs?
+HISTORY: In which city was RMS Titanic constructed?
+HISTORY: What was the full name of the baker in whose bakery began the Great Fire of London (1666)?
+HISTORY: In what year did the Great Fire of London start?
+SPORTS: In which year was the Munich air disaster involving Manchester United football team?
+ASTRONOMY: Venera 7 became the first spacecraft to successfully land on another planet.  Which planet?
+HISTORY: Who was the first wife of Henry VIII?
+HISTORY: In which year did the USSR dissolve?
+HISTORY: How many independent countries did the USSR dissolve to (1991)?
+GENERAL KNOWLEDGE: What date did Euro coins and bank notes first enter general circulation?
+GEOGRAPHY: In which year was Korea divided into North and South Korea?
+HISTORY: Who was the wife of George V?
+HISTORY: In which year was the British Women's Institute founded?
+HISTORY: In which year did Abraham Lincoln deliver the Gettysburg Address?
+POLITICS: Vietnam claimed independence from which country in 1945?
+POLITICS: Which Russian word, meaning 'openness', was made popular by Mikhail Gorbachev in reference to Soviet political policy during his time in office?
+HISTORY: How many children did Queen Victoria have?
+POLITICS: Robert Walpole and William Pitt the Elder were leaders of which political party?
+HISTORY: Which Scottish King died at the Battle of Flodden (1513)?
+TV AND FILM: In which year was the first episode of Eastenders aired?
+HISTORY: In which year was the entrance to King Tutankhamen's Tomb in the Valley of the Kings discovered?
+MUSIC: In which year was Fleetwood Mac's 'Rumours' released?
+TV AND FILM: In which year was the BBC formed?
+HISTORY: In which year was Ruth Ellis executed, the last woman to be hanged in the UK?
+HISTORY: In which year did Elizabeth II celebrate her Ruby Jubilee?
+HISTORY: What was the name of the Celtic tribe that Boudicca belonged to?
+HISTORY: Who was the first UK monarch to visit India?
+HISTORY: In which year was Joan of Arc born?
+HISTORY: Who was the President of the United States when Neil Armstrong first set foot on the moon?
+GENERAL KNOWLEDGE: Complete the name of this Wonder of the Ancient World - The Colossus of ______?
+GENERAL KNOWLEDGE: Complete the name of this Wonder of the Ancient World - The Lighthouse of __________?
+GENERAL KNOWLEDGE: Complete the name of this Wonder of the Ancient World - The Mausoleum at _____________?
+RELIGION: Of all of Adam and Eve's children, which were the only three that were named in the Bible?
+GEOGRAPHY: Which South American country declared independence from Portugal (1822)?
+POLITICS: Canaan Banana was the first ever president of which country (1980-1987)?
+ART: What was the name of the painting that was clumsily restored in 2012?
+RELIGION: How many popes have been named Pius?
+HISTORY: How many shillings were equivalent to one crown?
+HISTORY: How many pennies were equivalent to one shilling?
+HISTORY: How many sixpences were equivalent to one shilling?
+HISTORY: How many shillings were equivalent to one florin?
+HISTORY: How many pennies were equivalent to one florin?
+HISTORY: How many pennies were equivalent to one crown?
+HISTORY: How many pennies were equivalent to one pound/sovereign?
+HISTORY: How many farthings were equivalent to a penny?
+HISTORY: How many shillings were equivalent to a crown?
+HISTORY: How many shillings were equivalent to a guinea?
+HISTORY: How many pennies were equivalent to a groat?
+HISTORY: 'Eboracum' was the Roman name for which English city?
+HISTORY: In which year was the Gunpowder Plot?
+POLITICS: Who did Ronald Reagan succeed as President of the USA?
+HISTORY: What was the name of Lord Nelson's flagship?
+POLITICS: Which American political protest took place on 16th Dec, 1773?
+POLITICS: In which year did India gain independence from the UK?
+POLITICS: Which British colony gained independence on 15th Aug, 1947?
+HISTORY: In which year was Queen Elizabeth II born?
+CHEMISTRY: Which element has the atomic number 1?
+CHEMISTRY: Which element has the atomic number 2?
+CHEMISTRY: Which element has the atomic number 3?
+CHEMISTRY: Which element has the atomic number 4?
+CHEMISTRY: Which element has the atomic number 8?
+CHEMISTRY: Which element has the atomic number 9?
+CHEMISTRY: Which element has the atomic number 10?
+CHEMISTRY: Which element has the atomic number 11?
+CHEMISTRY: Which element has the atomic number 12?
+CHEMISTRY: Which element has the atomic number 13?
+CHEMISTRY: Which element has the atomic number 14?
+CHEMISTRY: Which element has the atomic number 15?
+CHEMISTRY: Which element has the atomic number 16?
+CHEMISTRY: Which element has the atomic number 17?
+CHEMISTRY: Which element has the atomic number 18?
+CHEMISTRY: Which element has the atomic number 19?
+CHEMISTRY: Which element has the atomic number 20?
+CHEMISTRY: Which element has the atomic number 21?
+CHEMISTRY: Which element has the atomic number 22?
+CHEMISTRY: Which element has the atomic number 23?
+CHEMISTRY: Which element has the atomic number 24?
+CHEMISTRY: Which element has the atomic number 25?
+PHYSICS: What word describes the height of a wave of electromagnetic radiation?
+PHYSICS: Are infrared wavelengths longer or shorter than visible light wavelengths?
+PHYSICS: Which has the shorter wavelength - X-rays or gamma-rays?
+CHEMISTRY: Which type of spectral lines are displayed as bright lines against a dark background?
+CHEMISTRY: Which type of spectral lines are displayed as dark lines against a bright background?
+CHEMISTRY: What is the metric unit of length comparable to the wavelength of an electron?
+CHEMISTRY: Which letter of the alphabet denotes the principal quantum number?
+CHEMISTRY: Which letter of the alphabet denotes the azimuthal quantum number?
+CHEMISTRY: Which quantum number denotes the energy and the distance of an electron from the nucleus of an atom?
+CHEMISTRY: Which quantum number determines the shape of an electron orbital?
+CHEMISTRY: Electrons in the same shell have the same value of which quantum number (give the symbol)?
+CHEMISTRY: Electrons in the same sub-shell (s, p, d, f) have the same value of which quantum number (give the symbol)?
+CHEMISTRY: What is the value of the azimuthal quantum number ('l') for an electron in an s-orbital?
+CHEMISTRY: What is the value of the azimuthal quantum number ('l') for an electron in a p-orbital?
+CHEMISTRY: What is the value of the azimuthal quantum number ('l') for an electron in a d-orbital?
+CHEMISTRY: What is the value of the azimuthal quantum number ('l') for an electron in an f-orbital?
+CHEMISTRY: Which quantum number denotes the orbital an electron is in?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift paper?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift leather?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift wood?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift tin?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift crystal?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift china?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift silver?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift pearl?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift coral?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift ruby?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift sapphire?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift emerald?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift diamond?
+GENERAL KNOWLEDGE: After how many years of marriage would you traditionally gift platinum?
+GAMES AND ENTERTAINMENT: In UK Monopoly, what are the green properties in alphabetical order?
+GENERAL KNOWLEDGE: Who created Snoopy?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 18th October?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 1st November?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 7th December?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 13th January?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 3rd February?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 17th March?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 4th April?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 29th April?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 23rd May?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 1st July?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 31st July?
+GENERAL KNOWLEDGE: What sign of the zodiac would you be if your birthday was the 24th August?
+GENERAL KNOWLEDGE: Which unit of measurement is equivalent to 1 nautical mile/h?
+GEOGRAPHY: Is the Tropic of Cancer north or south of the equator?
+GEOGRAPHY: Is the Tropic of Capricorn north or south of the Equator?
+LITERATURE: What is the name of the dog in the Tintin comics?
+TV AND FILM: Which actor player Margaret Thatcher in 'The Iron Lady' (2012)?
+GEOGRAPHY: What currency do Uganda use?
+TV AND FILM: Which member of The Beatles also produced Monty Python's 'Life of Brian' (1979)?
+TV AND FILM: What is the name of Larry Hagman's actor mother?
+HISTORY: What was held at Crystal Palace in 1851?
+HISTORY: Which Portuguese explorer gave the Pacific Ocean its name?
+HISTORY: Which Portuguese explorer was the first to circumnavigate the Earth?
+HISTORY: Which country was Ferdinand Magellan from?
+GENERAL KNOWLEDGE: What is the IATA code for Gatwick airport?
+GEOGRAPHY: What currency do Brazil use?
+POLITICS: What is the name of the German Parliament building in Berlin?
+MATHEMATICS: What is the name for a triangle with no sides of equal length?
+GENERAL KNOWLEDGE: Which car logo consists of three diamonds which meet in the middle?
+LITERATURE: Who wrote the original Mr Men books?
+LITERATURE: What is Dr Jekyll's first name?
+LITERATURE: What is Mr Hyde's first name?
+GENERAL KNOWLEDGE: Homerton is a college of which university?
+FOOD AND DRINK: What is stored in a bodega?
+GENERAL KNOWLEDGE: 'People's car' is the literal translation of which German automaker?
+TV AND FILM: What was the name of the Lone Ranger's sidekick?
+LITERATURE: Who wrote 'A Streetcar Named Desire'?
+RELIGION: What name was taken by Cardinal Joseph Sarto when he became Pope?
+GEOGRAPHY: The coins of which country are inscribed with the word "Helvetia"?
+GEOGRAPHY: What is the unofficial national animal of Mauritius?
+ZOOLOGY: What colour is octopus blood?
+POLITICS: Who was the President of the USA during WWI?
+HISTORY: In which year did the London Underground begin operating?
+TV AND FILM: Which actor played James Bond in 'Octopussy' (1983)?
+TV AND FILM: Which actor played Isobel Crawley in 'Downton Abbey'?
+CHEMISTRY: By what name is vitamin C alternatively known?
+MATHEMATICS: What is the sum of the spots on four dice?
+POLITICS: What was the name of the Chief Mouser to the Cabinet Office from 1989 to 1997?
+POLITICS: What was the name of the Chief Mouser to the Cabinet Office from 2007 to 2009?
+POLITICS: Who succeeded Humphrey as the Chief Mouser to the Cabinet Office in 2007?
+POLITICS: Who was the owner of Sybil, Chief Mouser to the Cabinet Office (2007-2009)?
+POLITICS: Who was the owner of Freya, Chief Mouser to the Cabinet Office (2012-2014)?
+POLITICS: Who served as Chancellor of the Exchequer (2010-2016) under David Cameron?
+POLITICS: Who served as Chancellor of the Exchequer (2007-2010) under Gordon Brown?
+POLITICS: Who preceded Alistair Darling as the Chancellor of the Exchequer?
+POLITICS: Who served as Chancellor of the Exchequer (1997-2007) under Tony Blair?
+GAMES AND ENTERTAINMENT: What colour is zero on a Roulette wheel?
+HISTORY: From which English port did the Titanic set sail on 10th April, 1912?
+TV AND FILM: What colour were ET's eyes?
+TV AND FILM: What was the name of the eldest Von Trapp child in 'The Sound of Music' (1965)?
+TECHNOLOGY: What does HTML stand for?
+SPORTS: Who won the 1998 FIFA World Cup?
+MUSIC: Which rock singer's real name is Vincent Damon Furnier?
+LITERATURE: Which musical is based on a novel written by Victor Hugo?
+LITERATURE: Who wrote the novel 'Les Misérables' (1862)?
+LITERATURE: Who wrote the novel 'The Hunchback of Notre-Dame' (1831)?
+SPORTS: What colour jersey is given to the fastest overall rider who is under 25 years old?
+LITERATURE: In 'Oliver Twist' (1838), what was the real name of the Artful Dodger?
+MUSIC: Who sang the theme song to 'The Living Daylights' (1987)?
+TECHNOLOGY: Which company was founded by Larry Page and Sergey Brin in 1998?
+RELIGION: In which country was Pope Francis born?
+GEOGRAPHY: What is the only country in the world named after a chemical element?
+ZOOLOGY: How many hearts does an octopus have?
+GENERAL KNOWLEDGE: How many different fields of Nobel Prize are there?
+SPORTS: How many gold medals did Team GB win in the 2012 Summer Olympic Games?
+SPORTS: The four annual tennis Grand Slams are held in the USA, France, England and which other country?
+SPORTS: The four annual tennis Grand Slams are held in France, England, Australia and which other country?
+SPORTS: The four annual tennis Grand Slams are held in England, Australia, the USA and which other country?
+SPORTS: The four annual tennis Grand Slams are held in France, the USA, Australia and which other country?
+MUSIC: What were The Beatles known as before they were The Beatles?
+RELIGION: What was the name of the Prefect of Judaea who ordered the execution of Jesus Christ?
+ARCHITECTURE: In which building was Winston Churchill born?
+GEOGRAPHY: Which two countries are connected by the Khyber Pass?
+GEOGRAPHY: The Khyber Pass connects Afghanistan to which other country?
+GEOGRAPHY: The Khyber Pass connects Pakistan to which other country?
+RELIGION: What type of tree was Buddha said to have been sitting underneath when he achieved enlightenment?
+SPORTS: Which UK rugby union team are known as 'The Tigers'?
+RELIGION: Who succeeded Rowan Williams as Archbishop of Canterbury in January 2013?
+MUSIC: Which singer's real name is Alecia Beth Moore?
+SPORTS: How many players are there on a netball team?
+RELIGION: Which is the last book in the Old Testament?
+MUSIC: How many keys are there on a standard full-sized piano?
+ZOOLOGY: What food to pandas eat primarily?
+GEOGRAPHY: Which country borders Switzerland to the west?
+TV AND FILM: Which movie was set on the moon of Pandora?
+GEOGRAPHY: Which country was formerly known as Ceylon?
+GENERAL SCIENCE: What comes between milli- and nano-?
+FOOD AND DRINK: From what fish's egg is caviar traditionally made?
+FOOD AND DRINK: Which plant is used to make tequila?
+RELIGION: Which Bible character relied on his brother, Aaron, to be his spokesperson?
+MYTHOLOGY: What is the name of the three-headed dog that guards the gates to Hades?
+GENERAL KNOWLEDGE: What is the name given to bumps on a skiing course? (sing.)
+PHOBIAS: What is chorophobia a fear of?
+GEOGRAPHY: Which country is mostly located in Anatolia?
+GEOGRAPHY: What is the most commonly-grown crop in the USA?
+BOTANY: What is the tallest species of tree?
+SPORTS: Which country has won the most gold medals at the Winter Olympics?
+SPORTS: Which country has won the most medals at the Winter Olympics?
+GEOGRAPHY: What is the capital of Mongolia?
+FOOD AND DRINK: What is the main ingredient in hummus? (pl.)
+RELIGION: Whose wife was turned into a pillar of salt?
+TV AND FILM: In which US city do the movies 'Robocop' and 'Gran Turino' take place?
+ARCHITECTURE: What is the name given to a luxurious apartment on the top floor of a tall building?
+GEOGRAPHY: What is the westernmost major city in Australia?
+POLITICS: In which year did Margaret Thatcher become Prime Minister?
+ZOOLOGY: Which land mammal has the highest blood pressure?
+MEDICINE: Which was the first human internal organ to be successfully transplanted?
+GENERAL KNOWLEDGE: What is the name of the plastic covering at the end of a shoelace?
+LITERATURE: Who wrote the novel 'One Flew Over the Cuckoo's Nest'?
+MUSIC: Which singer was born Stuart Leslie Goddard?
+SPORTS: Who won the Wimbledon men’s singles final in 2011?
+WORLD LANGUAGES: What is the English translation of the word "croissant"?
+TV AND FILM: In 'The Lion King' (1994), what is the name of Simba's love interest?
+LITERATURE: 'Babe' (1995) is the movie adaptation of which book, authored by Dick King-Smith?
+LITERATURE: What is the name of the female Border Collie in 'Babe' (1995)?
+LITERATURE: What is the name of the lead sheepdog in 'Babe' (1995)?
+LITERATURE: What is the name of the white Indian Runner duck in 'Babe' (1995)?
+GEOGRAPHY: How many states make up Germany?
+MUSIC: What was the original given name of Wolfgang Amadeus Mozart?
+CHEMISTRY: What is the name given to a separation technique where the components of a mixture are separated on an adsorbent column in a flowing system?
+CHEMISTRY: What value can be described as the ratio of a solute's solubilities in two immiscible liquid phases?
+CHEMISTRY: In TLC, what factor is defined as the ratio of the distances an analyte and a solvent travel on a plate?
+CHEMISTRY: What term is used to describe the time taken for an analyte to pass through a column?
+CHEMISTRY: On a chromatogram, Peak A has a greater area than Peak B.  Which peak indicates a greater concentration?
+CHEMISTRY: What does HPLC stand for?
+CHEMISTRY: In normal phase-HPLC, is the mobile phase polar or non-polar?
+CHEMISTRY: In normal phase-HPLC, is the stationary phase polar or non-polar?
+CHEMISTRY: In reverse phase-HPLC, is the mobile phase polar or non-polar?
+CHEMISTRY: In reverse phase-HPLC, is the stationary phase polar or non-polar?
+CHEMISTRY: What must a molecule have in order to be IR-active?
+CHEMISTRY: Which vibration requires more energy to induce - bending or stretching?
+HARRY POTTER: How old was Nicholas Flamel when he destroyed the Philosopher's Stone?
+HARRY POTTER: How many staircases does Hogwarts have?
+HARRY POTTER: How many possible fouls are there in quidditch?
+HARRY POTTER: How many different ingredients are required to make the polyjuice potion?
+HARRY POTTER: Whose statue is located next to the entry of the prefects' bathrooms?
+HARRY POTTER: Which row houses the prophecy about Harry and Voldemort in the Hall of Prophecies?
+GEOGRAPHY: What was the Turkish city of Istanbul called before 1930?
+MUSIC: From which US city do The Killers come from?
+SPORTS: How many players make up a polo team?
+ART: Banksy is originally associated with which English city?
+FOOD AND DRINK: From what grain is the Japanese spirit sake made?
+ANATOMY: In which part of the body can the cruciate ligament be found?
+LITERATURE: What is the name of the main antagonist in Shakespeare's Othello?
+TV AND FILM: Which film about two journalists investigating the Watergate scandal (1976) stars Robert Redford and Dustin Hoffman?
+HISTORY: How many of Henry VIII's wives were called Catherine?
+GENERAL KNOWLEDGE: What was the most popular girl's name in the UK in 2019?
+GAMES AND ENTERTAINMENT: Which video game franchise had games with subtitles World At War and Black Ops?
+GEOGRAPHY: What is the state capital of Alabama?
+GEOGRAPHY: What is the state capital of Arizona?
+GEOGRAPHY: What is the state capital of California?
+GEOGRAPHY: What is the state capital of Colorado?
+GEOGRAPHY: What is the state capital of Connecticut?
+GEOGRAPHY: What is the state capital of Florida?
+GEOGRAPHY: What is the state capital of Georgia?
+GEOGRAPHY: What is the state capital of Hawaii?
+GEOGRAPHY: What is the state capital of Illinois?
+GEOGRAPHY: What is the state capital of Boise?
+GEOGRAPHY: What is the state capital of Indiana?
+GEOGRAPHY: What is the state capital of Idaho?
+GEOGRAPHY: What is the state capital of Kansas?
+GEOGRAPHY: What is the state capital of Kentucky?
+GEOGRAPHY: What is the state capital of Louisiana?
+GEOGRAPHY: What is the state capital of Maine?
+GEOGRAPHY: What is the state capital of Maryland?
+GEOGRAPHY: What is the state capital of Massachusetts?
+GEOGRAPHY: What is the state capital of Michigan?
+GEOGRAPHY: What is the state capital of Minnesota?
+GEOGRAPHY: What is the state capital of Mississippi?
+GEOGRAPHY: What is the state capital of Missouri?
+GEOGRAPHY: What is the state capital of Montana?
+GEOGRAPHY: What is the state capital of Nebraska?
+GEOGRAPHY: What is the state capital of Nevada?
+GEOGRAPHY: What is the state capital of New Hampshire?
+GEOGRAPHY: What is the state capital of New Jersey?
+GEOGRAPHY: What is the state capital of New Mexico?
+GEOGRAPHY: What is the state capital of New York?
+GEOGRAPHY: What is the state capital of North Carolina?
+GEOGRAPHY: What is the state capital of North Dakota?
+GEOGRAPHY: What is the state capital of Ohio?
+GEOGRAPHY: What is the state capital of Oklahoma?
+GEOGRAPHY: What is the state capital of Oregon?
+GEOGRAPHY: What is the state capital of Rhode Island?
+GEOGRAPHY: What is the state capital of South Carolina?
+GEOGRAPHY: What is the state capital of South Dakota?
+GEOGRAPHY: What is the state capital of Tennessee?
+GEOGRAPHY: What is the state capital of Texas?
+GEOGRAPHY: What is the state capital of Utah?
+GEOGRAPHY: What is the state capital of Vermont?
+GEOGRAPHY: What is the state capital of Virginia?
+GEOGRAPHY: What is the state capital of Washington?
+GEOGRAPHY: What is the state capital of Wisconsin?
+GEOGRAPHY: In which European country would you find the Rijksmuseum?
+TV AND FILM: How many movies have Al Pacino and Robert de Niro appeared in together?
+FOOD AND DRINK: What was the old name for a Snickers bar before it changed in 1990?
+LITERATURE: Who wrote the novels 'Gone Girl' and 'Sharp Objects'?
+SPORTS: Where do Queen's Park Rangers play their home games?
+SPORTS: Which EPL team plays their home games at the Emirates Stadium?
+SPORTS: Which EPL team plays their home games at Villa Park?
+SPORTS: Which EPL team plays their home games at The Amex?
+SPORTS: Which EPL team plays their home games at Turf Moor?
+SPORTS: Which EPL team plays their home games at Stamford Bridge?
+SPORTS: Which EPL team plays their home games at Selhurst Park?
+SPORTS: Which EPL team plays their home games at Goodison Park?
+SPORTS: Which EPL team plays their home games at Craven Cottage?
+SPORTS: Which EPL team plays their home games at Elland Road?
+SPORTS: Which EPL team plays their home games at King Power Stadium?
+SPORTS: Which EPL team plays their home games at Anfield?
+SPORTS: Which EPL team plays their home games at the Etihad?
+SPORTS: Which EPL team plays their home games at Old Trafford?
+SPORTS: Which EPL team plays their home games at St James's Park?
+SPORTS: Which EPL team plays their home games at Bramall Lane?
+SPORTS: Which EPL team plays their home games at St Mary's Stadium?
+SPORTS: Which EPL team plays their home games at Tottenham Hotspur Stadium?
+SPORTS: Which EPL team plays their home games at The Hawthorns?
+SPORTS: Which EPL team plays their home games at London Stadium?
+SPORTS: Which EPL team plays their home games at Molineux Stadium?
+SPORTS: Which EPL team plays their home games at the Stadium of Light?
+SPORTS: Which EPL team plays their home games at Hillsborough Stadium?
+SPORTS: Which EPL team plays their home games at Loftus Road?
+ZOOLOGY: How many permanent teeth does a dog have?
+GEOGRAPHY: What is the full postcode of the Houses of Parliament?
+POLITICS: What is someone who believes in antidisestablishmentarianism opposed to the disestablishment of?
+ASTRONOMY: On average and in miles, how far away is the Moon from the Earth?
+GENERAL KNOWLEDGE: Which is longer - a nautical mile or a mile?
+GEOGRAPHY: Which country is believed to have the most miles of motorway?
+MUSIC: What is the name of Dua Lipa’s 2020 album release?
+MUSIC: In what year did The Beatles split up?
+MUSIC: Gary and Martin Kemp were in what band?
+SPORTS: What are the five colours of the Olympic rings?
+SPORTS: How many horses are on a team during a polo match?
+SPORTS: In which city is the US Masters held?
+TV AND FILM: In which year did Big Brother first air on Channel 4?
+TV AND FILM: Which actor played the NINTH incarnation of Doctor Who?
+TV AND FILM: 'The Simpsons' was the spin-off show of which American sketch series?
+TV AND FILM: What was the name of the tower block where Del Boy and Rodney Trotter lived in 'Only Fools and Horses'?
+TV AND FILM: EastEnders began broadcasting on BBC One in which year?
+TV AND FILM: Who is the longest serving presenter of the BBC children’s show Blue Peter?
+TV AND FILM: What is the name of the fictional borough of Melbourne where Australian soap 'Neighbours' is set?
+TV AND FILM: What is the colour of the pill that Neo swallows in The Matrix?
+TV AND FILM: Who composed the soundtrack for Gladiator?
+TV AND FILM: Who worked on the soundtracks for the first four movies in the Pirates of the Caribbean series?
+TV AND FILM: Which 2019 film one the Golden Raspberry Award for Worst Film of the year?
+FOOD AND DRINK: How many calories does a regular Big Mac contain (answers within 5 kcal are accepted)?
+FOOD AND DRINK: A 'screwdriver' cocktail is made from orange juice, ice and which spirit?
+FOOD AND DRINK: Gouda is a popular cheese originating from which country?
+FOOD AND DRINK: Which southern Italian city is usually credited as the birthplace of the pizza?
+FOOD AND DRINK: What does the French name 'Pret a Manger' (a popular sandwich chain in the UK) mean in English?
+HARRY POTTER: How long do lacewing flies need to be stewed before they are ready for use in a polyjuice potion?
+HARRY POTTER: What is an example of an ingredient of the polyjuice potion (NOT including the sample of human tissue)?
+GEOGRAPHY: Which three UK mountains need to be climbed for someone to have completed the Three Peaks challenge?
+GEOGRAPHY: How many countries recognised by the UN are there in the region of Europe?
+GEOGRAPHY: What currency is used in Vietnam?
+MUSIC: How many notes are there in a musical scale?
+TV AND FILM: Which actor played Gunther in 'Friends'?
+TV AND FILM: What was Oliver Hardy's real first name?
+TV AND FILM: Who played PM Jim Hacker in 'Yes, Prime Minister'?
+MUSIC: Gordon Sumner is the real name of which British singer/songwriter/bassist?
+MUSIC: What is the real name of Sting?
+ANATOMY: A glossectomy is the removal of all of or part of which body part?
+MUSIC: What was the first single to be released by Oasis?
+SPORTS: Geoff Hurst scored a hat-trick in the 1966 World Cup final. Who scored the other goal for England?
+LITERATURE: What were the first names of all five of the Brontë sisters?
+TV AND FILM: What is the name of the establishment where The Shining takes place?
+LITERATURE: What is the best-selling novel of all time?
+LITERATURE: Who wrote the Hunger Games series of books?
+ASTRONOMY: Which planet in our solar system has the most moons?
+GAMES AND ENTERTAINMENT: In which year was the N64 released in Europe?
+TECHNOLOGY: With over 222 million units sold, what is Apple's highest-selling iPhone model?
+MUSIC: Who wrote the song 'Stacy's Mom'?
+MUSIC: What was the name of the singer in Gnarls Barkley?
+MUSIC: Which American rapper released the album The College Dropout (2004)?
+MUSIC: In which year did Cilla Black have her first Number One album?
+MUSIC: How many UK Number Ones did Elvis Presley have in the 1960's?
+MUSIC: The Animals formed in which UK city?
+TV AND FILM: Who plays Phil Mitchell in EastEnders?
+TV AND FILM: Which year did the first episode of Emmerdale Farm air?
+TV AND FILM: In the TV quote "Danger, _ _ _ _   _ _ _ _ _ _ _ _", what name has been replaced by blanks?
+TV AND FILM: Which character speaks the first line in Star Wars: A New Hope?
+HISTORY: Which two houses were involved in the War of the Roses (1455 - 1487)?
+GEOGRAPHY: In which year did the EU first introduce the Euro as its currency?
+SPORTS: Which three players share the record for the most Premier League red cards (8)?
+SPORTS: Which player has the record for the fastest goal (7.69 s) in Premier League history?
+SPORTS: In cricket, what is Joe Root's ODI shirt number?
+SPORTS: In cricket, what does ODI stand for?
+SPORTS: Which player holds the record for highest individual score (501) in first-class cricket?
+SPORTS: How many Grand Slam singles titles has Serena Williams won?
+SPORTS: How many Grand Slam titles has Andy Murray won?
+SPORTS: Whistling Straits golf course can be found in which US state?
+SPORTS: How many majors has Rory McIlroy won in his career?
+TV AND FILM: BEANBAG MINTS is an anagram of which film?
+TV AND FILM: FROG HAD TEETH is an anagram of which film?
+TV AND FILM: POETIC INN is an anagram of which film?
+TV AND FILM: THINK LEGION is an anagram of which film?
+TV AND FILM: END OF MINING is an anagram of which film?
+HISTORY: In 1952, Albert Einstein was offered the Presidency of which country?
+POLITICS: In which year did the UK join what is now known as the European Union?
