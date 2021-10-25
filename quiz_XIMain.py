@@ -10,7 +10,7 @@ class Main:
     # These strings are split to form lists of generic keywords for certain functions.  They are intended to make
     # the quiz and its operation more user-friendly (you don't have to remember one keyword, but can use one that
     # feels more natural):
-    exitKeywords = "exit; end quiz; I'm finished; I'm done; I'm through; no more; fuck this".lower().split('; ')
+    exitKeywords = "exit; end quiz; I'm finished; I'm done; I'm through; no more; done".lower().split('; ')
     statisticsKeywords = "stats; statistics; score".lower().split('; ')
     hintKeywords = "hint; clue; give me a clue; ?; give me a hint; help me out here".lower().split('; ')
     catStatKeywords = "catstats; category statistics; category points; category score; category scores;" \
